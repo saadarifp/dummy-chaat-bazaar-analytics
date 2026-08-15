@@ -1,4 +1,6 @@
-# Chaat Bazaar Sales Analytics
+# Dummy Chaat Bazaar Sales Analytics
+
+*All data in this repo is synthetic/dummy data — no real business figures.*
 
 A portfolio project analyzing sales data for Chaat Bazaar, a multi-branch UAE restaurant business. Built while working through a data analytics learning path (AZ-900, SQL, Excel/Power BI).
 
@@ -21,3 +23,4 @@ Data is internally consistent: `Net_Sales = Gross_Sales − Discount − Commiss
 ## Progress log
 
 - **Day 2** — AZ-900 cloud concepts studied; 15 SQL exercises + 7-query mini challenge completed (all verified against the dataset in SQLite); first dummy dataset created and committed.
+- **Day 3** — AZ-900 Azure architecture (regions, availability zones, resource hierarchy); full sales analysis in `day3_analysis.sql`: aggregation, GROUP BY/HAVING, branch & aggregator & product analysis, CASE WHEN order classification, CTE for above-average branches, RANK() window functions. Findings written up in `insights.md`.
