@@ -20,7 +20,10 @@ Columns: Order_Date, Branch, Order_ID, Order_Type, Aggregator, Item_Name, Catego
 
 Data is internally consistent: `Net_Sales = Gross_Sales − Discount − Commission`, with commission rates varying by aggregator (Talabat 25%, Careem 22%, Noon 20%, Direct 0%).
 
+Normalized tables (Day 4): `data/branches.csv`, `data/orders.csv`, `data/products.csv`, `data/aggregators.csv`.
+
 ## Progress log
 
 - **Day 2** — AZ-900 cloud concepts studied; 15 SQL exercises + 7-query mini challenge completed (all verified against the dataset in SQLite); first dummy dataset created and committed.
 - **Day 3** — AZ-900 Azure architecture (regions, availability zones, resource hierarchy); full sales analysis in `day3_analysis.sql`: aggregation, GROUP BY/HAVING, branch & aggregator & product analysis, CASE WHEN order classification, CTE for above-average branches, RANK() window functions. Findings written up in `insights.md`.
+- **Day 4** — Dataset normalized into `branches` / `orders` / `products` / `aggregators` tables (with a zero-order branch for LEFT JOIN practice); 15 JOIN queries + 9 data-quality checks in `day4_joins_and_validation.sql` (all checks pass); AZ-900 compute services notes added.
