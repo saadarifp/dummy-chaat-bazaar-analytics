@@ -8,12 +8,14 @@ CREATE TABLE branches (Branch_ID INTEGER, Branch_Name TEXT, Emirate TEXT, Status
 CREATE TABLE aggregators (Aggregator_ID INTEGER, Aggregator_Name TEXT, Commission_Rate REAL);
 CREATE TABLE products (Product_ID INTEGER, Item_Name TEXT, Category TEXT, Unit_Price REAL);
 CREATE TABLE orders (Order_ID TEXT, Order_Date TEXT, Branch_ID INTEGER, Aggregator_ID INTEGER, Product_ID INTEGER, Order_Type TEXT, Quantity INTEGER, Gross_Sales REAL, Discount REAL, Commission REAL, Net_Sales REAL);
+CREATE TABLE sales (Order_Date TEXT, Branch TEXT, Order_ID TEXT, Order_Type TEXT, Aggregator TEXT, Item_Name TEXT, Category TEXT, Quantity INTEGER, Gross_Sales REAL, Discount REAL, Commission REAL, Net_Sales REAL);
 
 .mode csv
 .import --skip 1 data/branches.csv branches
 .import --skip 1 data/aggregators.csv aggregators
 .import --skip 1 data/products.csv products
 .import --skip 1 data/orders.csv orders
+.import --skip 1 data/chaat_bazaar_sales_dummy.csv sales
 .mode column
 .headers on
 SELECT 'branches' AS tbl, COUNT(*) AS rows FROM branches
