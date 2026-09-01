@@ -1,0 +1,989 @@
+Order_ID,Date,Branch,Product,Category,Aggregator,Order_Type,Quantity,Gross_Sales,Discount,Commission,Net_Sales
+CB-2000,2026-06-01,Karama,Masala Chai,Beverages,Direct,Takeaway,5,40,0.0,0.0,40.0
+CB-2001,2026-06-01,Karama,Aloo Tikki Chaat,Chaat,Careem,Delivery,2,32,0.0,7.04,24.96
+CB-2002,2026-06-01,Karama,Vada Pav,Snacks,Direct,Dine-in,6,60,0.0,0.0,60.0
+CB-2003,2026-06-01,Karama,Mango Lassi,Beverages,Talabat,Delivery,4,48,0.0,12.0,36.0
+CB-2004,2026-06-01,Muweilah,Pani Puri,Chaat,Careem,Delivery,4,48,0.0,10.56,37.44
+CB-2005,2026-06-01,Muweilah,Gulab Jamun,Desserts,Noon,Delivery,1,10,0.0,2.0,8.0
+CB-2006,2026-06-01,Muweilah,Pav Bhaji,Mains,Talabat,Delivery,5,110,0.0,27.5,82.5
+CB-2007,2026-06-01,Muweilah,Dahi Puri,Chaat,Careem,Delivery,2,28,0.0,6.16,21.84
+CB-2008,2026-06-01,Muweilah,Mango Lassi,Beverages,Careem,Delivery,4,48,0.0,10.56,37.44
+CB-2009,2026-06-01,JVC,Samosa Chaat,Chaat,Noon,Delivery,5,75,0.0,15.0,60.0
+CB-2010,2026-06-01,JVC,Masala Chai,Beverages,Talabat,Delivery,5,40,2.0,9.5,28.5
+CB-2011,2026-06-01,JVC,Pav Bhaji,Mains,Noon,Delivery,4,88,0.0,17.6,70.4
+CB-2012,2026-06-02,Karama,Chole Bhature,Mains,Noon,Delivery,5,120,0.0,24.0,96.0
+CB-2013,2026-06-02,Karama,Dahi Puri,Chaat,Careem,Delivery,2,28,0.0,6.16,21.84
+CB-2014,2026-06-02,Karama,Bhel Puri,Chaat,Direct,Dine-in,5,60,0.0,0.0,60.0
+CB-2015,2026-06-02,Karama,Paneer Tikka,Mains,Talabat,Delivery,1,28,1.4,6.65,19.95
+CB-2016,2026-06-02,Muweilah,Pani Puri,Chaat,Talabat,Delivery,4,48,2.4,11.4,34.2
+CB-2017,2026-06-02,Muweilah,Samosa Chaat,Chaat,Careem,Delivery,6,90,0.0,19.8,70.2
+CB-2018,2026-06-02,Muweilah,Vada Pav,Snacks,Noon,Delivery,4,40,0.0,8.0,32.0
+CB-2019,2026-06-02,JVC,Samosa Chaat,Chaat,Talabat,Delivery,3,45,4.5,10.12,30.38
+CB-2020,2026-06-02,JVC,Bhel Puri,Chaat,Noon,Delivery,6,72,10.8,12.24,48.96
+CB-2021,2026-06-02,Barsha,Falooda,Desserts,Talabat,Delivery,1,16,0.0,4.0,12.0
+CB-2022,2026-06-02,Barsha,Masala Dosa,Mains,Talabat,Delivery,3,60,0.0,15.0,45.0
+CB-2023,2026-06-02,Barsha,Masala Chai,Beverages,Direct,Takeaway,3,24,0.0,0.0,24.0
+CB-2024,2026-06-02,Deira,Pani Puri,Chaat,Noon,Delivery,2,24,0.0,4.8,19.2
+CB-2025,2026-06-02,Deira,Samosa Chaat,Chaat,Talabat,Delivery,3,45,0.0,11.25,33.75
+CB-2026,2026-06-02,Deira,Falooda,Desserts,Talabat,Delivery,6,96,0.0,24.0,72.0
+CB-2027,2026-06-03,Karama,Pav Bhaji,Mains,Direct,Dine-in,4,88,4.4,0.0,83.6
+CB-2028,2026-06-03,Muweilah,Bhel Puri,Chaat,Careem,Delivery,1,12,0.0,2.64,9.36
+CB-2029,2026-06-03,Muweilah,Vada Pav,Snacks,Careem,Delivery,2,20,2.0,3.96,14.04
+CB-2030,2026-06-03,Muweilah,Samosa Chaat,Chaat,Direct,Dine-in,1,15,0.0,0.0,15.0
+CB-2031,2026-06-03,JVC,Masala Chai,Beverages,Careem,Delivery,1,8,0.4,1.67,5.93
+CB-2032,2026-06-03,Deira,Chole Bhature,Mains,Talabat,Delivery,4,96,9.6,21.6,64.8
+CB-2033,2026-06-04,Karama,Bhel Puri,Chaat,Noon,Delivery,3,36,5.4,6.12,24.48
+CB-2034,2026-06-04,Karama,Pani Puri,Chaat,Talabat,Delivery,2,24,3.6,5.1,15.3
+CB-2035,2026-06-04,Karama,Masala Chai,Beverages,Direct,Dine-in,3,24,2.4,0.0,21.6
+CB-2036,2026-06-04,Muweilah,Aloo Tikki Chaat,Chaat,Noon,Delivery,6,96,0.0,19.2,76.8
+CB-2037,2026-06-04,Muweilah,Bhel Puri,Chaat,Noon,Delivery,1,12,0.0,2.4,9.6
+CB-2038,2026-06-04,Barsha,Masala Dosa,Mains,Talabat,Delivery,6,120,12.0,27.0,81.0
+CB-2039,2026-06-05,Karama,Dahi Puri,Chaat,Talabat,Delivery,2,28,0.0,7.0,21.0
+CB-2040,2026-06-05,Karama,Pav Bhaji,Mains,Talabat,Delivery,1,22,0.0,5.5,16.5
+CB-2041,2026-06-05,Karama,Dahi Puri,Chaat,Noon,Delivery,6,84,4.2,15.96,63.84
+CB-2042,2026-06-05,Karama,Samosa Chaat,Chaat,Direct,Takeaway,5,75,0.0,0.0,75.0
+CB-2043,2026-06-05,Muweilah,Sev Puri,Chaat,Direct,Dine-in,6,78,11.7,0.0,66.3
+CB-2044,2026-06-05,Muweilah,Paneer Tikka,Mains,Careem,Delivery,1,28,0.0,6.16,21.84
+CB-2045,2026-06-05,Muweilah,Vada Pav,Snacks,Talabat,Delivery,1,10,0.0,2.5,7.5
+CB-2046,2026-06-05,JVC,Mango Lassi,Beverages,Talabat,Delivery,6,72,3.6,17.1,51.3
+CB-2047,2026-06-05,JVC,Chole Bhature,Mains,Talabat,Delivery,5,120,12.0,27.0,81.0
+CB-2048,2026-06-05,JVC,Vada Pav,Snacks,Careem,Delivery,4,40,0.0,8.8,31.2
+CB-2049,2026-06-05,JVC,Paneer Tikka,Mains,Careem,Delivery,6,168,0.0,36.96,131.04
+CB-2050,2026-06-05,Barsha,Masala Chai,Beverages,Noon,Delivery,6,48,0.0,9.6,38.4
+CB-2051,2026-06-06,Karama,Falooda,Desserts,Talabat,Delivery,4,64,0.0,16.0,48.0
+CB-2052,2026-06-06,Karama,Samosa Chaat,Chaat,Talabat,Delivery,1,15,0.0,3.75,11.25
+CB-2053,2026-06-06,Karama,Samosa Chaat,Chaat,Talabat,Delivery,5,75,0.0,18.75,56.25
+CB-2054,2026-06-06,Muweilah,Mango Lassi,Beverages,Direct,Dine-in,1,12,0.0,0.0,12.0
+CB-2055,2026-06-06,Muweilah,Bhel Puri,Chaat,Talabat,Delivery,2,24,0.0,6.0,18.0
+CB-2056,2026-06-06,Muweilah,Pani Puri,Chaat,Careem,Delivery,1,12,0.0,2.64,9.36
+CB-2057,2026-06-06,JVC,Falooda,Desserts,Talabat,Delivery,3,48,0.0,12.0,36.0
+CB-2058,2026-06-06,Barsha,Pav Bhaji,Mains,Careem,Delivery,6,132,0.0,29.04,102.96
+CB-2059,2026-06-06,Barsha,Paneer Tikka,Mains,Talabat,Delivery,6,168,0.0,42.0,126.0
+CB-2060,2026-06-06,Barsha,Pav Bhaji,Mains,Talabat,Delivery,1,22,0.0,5.5,16.5
+CB-2061,2026-06-06,Barsha,Aloo Tikki Chaat,Chaat,Talabat,Delivery,3,48,0.0,12.0,36.0
+CB-2062,2026-06-06,Barsha,Paneer Tikka,Mains,Talabat,Delivery,2,56,8.4,11.9,35.7
+CB-2063,2026-06-06,Barsha,Pav Bhaji,Mains,Direct,Dine-in,2,44,0.0,0.0,44.0
+CB-2064,2026-06-06,Barsha,Paneer Tikka,Mains,Direct,Takeaway,4,112,5.6,0.0,106.4
+CB-2065,2026-06-06,Deira,Mango Lassi,Beverages,Direct,Takeaway,4,48,0.0,0.0,48.0
+CB-2066,2026-06-06,Deira,Masala Chai,Beverages,Talabat,Delivery,4,32,0.0,8.0,24.0
+CB-2067,2026-06-06,Deira,Samosa Chaat,Chaat,Direct,Takeaway,6,90,4.5,0.0,85.5
+CB-2068,2026-06-07,Karama,Pani Puri,Chaat,Noon,Delivery,4,48,0.0,9.6,38.4
+CB-2069,2026-06-07,Karama,Chole Bhature,Mains,Noon,Delivery,4,96,0.0,19.2,76.8
+CB-2070,2026-06-07,Karama,Masala Chai,Beverages,Noon,Delivery,6,48,0.0,9.6,38.4
+CB-2071,2026-06-07,Karama,Falooda,Desserts,Noon,Delivery,5,80,0.0,16.0,64.0
+CB-2072,2026-06-07,Barsha,Aloo Tikki Chaat,Chaat,Noon,Delivery,5,80,4.0,15.2,60.8
+CB-2073,2026-06-07,Barsha,Aloo Tikki Chaat,Chaat,Talabat,Delivery,6,96,0.0,24.0,72.0
+CB-2074,2026-06-08,Karama,Masala Chai,Beverages,Careem,Delivery,2,16,2.4,2.99,10.61
+CB-2075,2026-06-08,Karama,Pav Bhaji,Mains,Direct,Takeaway,4,88,0.0,0.0,88.0
+CB-2076,2026-06-08,Muweilah,Paneer Tikka,Mains,Direct,Dine-in,6,168,0.0,0.0,168.0
+CB-2077,2026-06-08,Muweilah,Pani Puri,Chaat,Noon,Delivery,4,48,0.0,9.6,38.4
+CB-2078,2026-06-08,JVC,Sev Puri,Chaat,Careem,Delivery,4,52,2.6,10.87,38.53
+CB-2079,2026-06-08,JVC,Gulab Jamun,Desserts,Talabat,Delivery,6,60,6.0,13.5,40.5
+CB-2080,2026-06-08,Barsha,Gulab Jamun,Desserts,Talabat,Delivery,1,10,0.0,2.5,7.5
+CB-2081,2026-06-09,Karama,Samosa Chaat,Chaat,Talabat,Delivery,4,60,3.0,14.25,42.75
+CB-2082,2026-06-09,Muweilah,Pani Puri,Chaat,Talabat,Delivery,1,12,0.0,3.0,9.0
+CB-2083,2026-06-09,Muweilah,Bhel Puri,Chaat,Direct,Dine-in,1,12,1.2,0.0,10.8
+CB-2084,2026-06-09,JVC,Samosa Chaat,Chaat,Talabat,Delivery,1,15,0.0,3.75,11.25
+CB-2085,2026-06-09,JVC,Masala Dosa,Mains,Noon,Delivery,1,20,0.0,4.0,16.0
+CB-2086,2026-06-09,JVC,Dahi Puri,Chaat,Noon,Delivery,6,84,0.0,16.8,67.2
+CB-2087,2026-06-09,JVC,Gulab Jamun,Desserts,Noon,Delivery,5,50,0.0,10.0,40.0
+CB-2088,2026-06-09,JVC,Pani Puri,Chaat,Careem,Delivery,4,48,4.8,9.5,33.7
+CB-2089,2026-06-09,Barsha,Dahi Puri,Chaat,Talabat,Delivery,3,42,0.0,10.5,31.5
+CB-2090,2026-06-09,Deira,Sev Puri,Chaat,Direct,Takeaway,6,78,0.0,0.0,78.0
+CB-2091,2026-06-09,Deira,Falooda,Desserts,Direct,Dine-in,5,80,0.0,0.0,80.0
+CB-2092,2026-06-09,Deira,Pav Bhaji,Mains,Noon,Delivery,4,88,0.0,17.6,70.4
+CB-2093,2026-06-10,Karama,Vada Pav,Snacks,Careem,Delivery,5,50,0.0,11.0,39.0
+CB-2094,2026-06-10,Muweilah,Sev Puri,Chaat,Careem,Delivery,4,52,0.0,11.44,40.56
+CB-2095,2026-06-10,Muweilah,Pav Bhaji,Mains,Careem,Delivery,1,22,0.0,4.84,17.16
+CB-2096,2026-06-10,JVC,Masala Chai,Beverages,Talabat,Delivery,2,16,0.0,4.0,12.0
+CB-2097,2026-06-10,JVC,Masala Dosa,Mains,Careem,Delivery,4,80,0.0,17.6,62.4
+CB-2098,2026-06-10,JVC,Mango Lassi,Beverages,Noon,Delivery,3,36,5.4,6.12,24.48
+CB-2099,2026-06-10,Barsha,Mango Lassi,Beverages,Talabat,Delivery,3,36,0.0,9.0,27.0
+CB-2100,2026-06-10,Barsha,Mango Lassi,Beverages,Talabat,Delivery,3,36,0.0,9.0,27.0
+CB-2101,2026-06-10,Deira,Sev Puri,Chaat,Talabat,Delivery,1,13,0.0,3.25,9.75
+CB-2102,2026-06-11,Karama,Samosa Chaat,Chaat,Noon,Delivery,5,75,0.0,15.0,60.0
+CB-2103,2026-06-11,Karama,Gulab Jamun,Desserts,Direct,Takeaway,3,30,0.0,0.0,30.0
+CB-2104,2026-06-11,Karama,Paneer Tikka,Mains,Direct,Dine-in,5,140,0.0,0.0,140.0
+CB-2105,2026-06-11,JVC,Samosa Chaat,Chaat,Talabat,Delivery,3,45,6.75,9.56,28.69
+CB-2106,2026-06-11,Barsha,Vada Pav,Snacks,Talabat,Delivery,6,60,0.0,15.0,45.0
+CB-2107,2026-06-11,Barsha,Vada Pav,Snacks,Noon,Delivery,3,30,0.0,6.0,24.0
+CB-2108,2026-06-11,Barsha,Falooda,Desserts,Talabat,Delivery,3,48,0.0,12.0,36.0
+CB-2109,2026-06-11,Deira,Masala Dosa,Mains,Direct,Dine-in,5,100,0.0,0.0,100.0
+CB-2110,2026-06-12,Karama,Chole Bhature,Mains,Careem,Delivery,6,144,14.4,28.51,101.09
+CB-2111,2026-06-12,Karama,Masala Chai,Beverages,Careem,Delivery,3,24,2.4,4.75,16.85
+CB-2112,2026-06-12,Karama,Falooda,Desserts,Noon,Delivery,2,32,3.2,5.76,23.04
+CB-2113,2026-06-12,Karama,Pav Bhaji,Mains,Careem,Delivery,4,88,0.0,19.36,68.64
+CB-2114,2026-06-12,Karama,Vada Pav,Snacks,Talabat,Delivery,6,60,0.0,15.0,45.0
+CB-2115,2026-06-12,Karama,Aloo Tikki Chaat,Chaat,Talabat,Delivery,6,96,0.0,24.0,72.0
+CB-2116,2026-06-12,JVC,Bhel Puri,Chaat,Talabat,Delivery,2,24,0.0,6.0,18.0
+CB-2117,2026-06-12,JVC,Masala Dosa,Mains,Direct,Takeaway,5,100,0.0,0.0,100.0
+CB-2118,2026-06-12,JVC,Masala Chai,Beverages,Direct,Takeaway,5,40,6.0,0.0,34.0
+CB-2119,2026-06-12,Barsha,Vada Pav,Snacks,Noon,Delivery,5,50,0.0,10.0,40.0
+CB-2120,2026-06-12,Deira,Samosa Chaat,Chaat,Careem,Delivery,2,30,1.5,6.27,22.23
+CB-2121,2026-06-12,Deira,Gulab Jamun,Desserts,Direct,Dine-in,1,10,0.0,0.0,10.0
+CB-2122,2026-06-12,Deira,Masala Chai,Beverages,Noon,Delivery,6,48,0.0,9.6,38.4
+CB-2123,2026-06-12,Deira,Masala Chai,Beverages,Direct,Takeaway,2,16,1.6,0.0,14.4
+CB-2124,2026-06-12,Deira,Aloo Tikki Chaat,Chaat,Talabat,Delivery,6,96,0.0,24.0,72.0
+CB-2125,2026-06-13,Karama,Masala Dosa,Mains,Talabat,Delivery,1,20,2.0,4.5,13.5
+CB-2126,2026-06-13,Karama,Pav Bhaji,Mains,Talabat,Delivery,2,44,0.0,11.0,33.0
+CB-2127,2026-06-13,Karama,Falooda,Desserts,Careem,Delivery,5,80,0.0,17.6,62.4
+CB-2128,2026-06-13,Karama,Mango Lassi,Beverages,Talabat,Delivery,4,48,4.8,10.8,32.4
+CB-2129,2026-06-13,Karama,Masala Dosa,Mains,Talabat,Delivery,3,60,0.0,15.0,45.0
+CB-2130,2026-06-13,Karama,Mango Lassi,Beverages,Talabat,Delivery,6,72,0.0,18.0,54.0
+CB-2131,2026-06-13,Muweilah,Masala Dosa,Mains,Talabat,Delivery,2,40,6.0,8.5,25.5
+CB-2132,2026-06-13,Muweilah,Masala Dosa,Mains,Noon,Delivery,1,20,2.0,3.6,14.4
+CB-2133,2026-06-13,Muweilah,Samosa Chaat,Chaat,Careem,Delivery,3,45,0.0,9.9,35.1
+CB-2134,2026-06-13,Muweilah,Dahi Puri,Chaat,Talabat,Delivery,4,56,0.0,14.0,42.0
+CB-2135,2026-06-13,Muweilah,Aloo Tikki Chaat,Chaat,Noon,Delivery,1,16,0.0,3.2,12.8
+CB-2136,2026-06-13,JVC,Falooda,Desserts,Talabat,Delivery,2,32,1.6,7.6,22.8
+CB-2137,2026-06-13,JVC,Paneer Tikka,Mains,Careem,Delivery,4,112,0.0,24.64,87.36
+CB-2138,2026-06-13,JVC,Sev Puri,Chaat,Talabat,Delivery,2,26,2.6,5.85,17.55
+CB-2139,2026-06-13,JVC,Chole Bhature,Mains,Talabat,Delivery,1,24,1.2,5.7,17.1
+CB-2140,2026-06-13,JVC,Vada Pav,Snacks,Noon,Delivery,6,60,9.0,10.2,40.8
+CB-2141,2026-06-13,Barsha,Samosa Chaat,Chaat,Careem,Delivery,3,45,0.0,9.9,35.1
+CB-2142,2026-06-13,Barsha,Pav Bhaji,Mains,Direct,Dine-in,6,132,0.0,0.0,132.0
+CB-2143,2026-06-13,Barsha,Samosa Chaat,Chaat,Direct,Dine-in,2,30,0.0,0.0,30.0
+CB-2144,2026-06-13,Barsha,Vada Pav,Snacks,Talabat,Delivery,2,20,0.0,5.0,15.0
+CB-2145,2026-06-14,Karama,Paneer Tikka,Mains,Talabat,Delivery,4,112,0.0,28.0,84.0
+CB-2146,2026-06-14,Muweilah,Pani Puri,Chaat,Careem,Delivery,2,24,2.4,4.75,16.85
+CB-2147,2026-06-14,Barsha,Masala Chai,Beverages,Talabat,Delivery,1,8,0.8,1.8,5.4
+CB-2148,2026-06-14,Barsha,Sev Puri,Chaat,Talabat,Delivery,4,52,0.0,13.0,39.0
+CB-2149,2026-06-14,Deira,Falooda,Desserts,Careem,Delivery,2,32,0.0,7.04,24.96
+CB-2150,2026-06-15,Karama,Samosa Chaat,Chaat,Talabat,Delivery,1,15,0.0,3.75,11.25
+CB-2151,2026-06-15,Karama,Pani Puri,Chaat,Talabat,Delivery,6,72,0.0,18.0,54.0
+CB-2152,2026-06-15,Muweilah,Mango Lassi,Beverages,Careem,Delivery,3,36,3.6,7.13,25.27
+CB-2153,2026-06-15,Muweilah,Samosa Chaat,Chaat,Noon,Delivery,1,15,0.75,2.85,11.4
+CB-2154,2026-06-15,JVC,Gulab Jamun,Desserts,Careem,Delivery,1,10,0.5,2.09,7.41
+CB-2155,2026-06-15,JVC,Masala Chai,Beverages,Talabat,Delivery,3,24,0.0,6.0,18.0
+CB-2156,2026-06-15,JVC,Vada Pav,Snacks,Talabat,Delivery,4,40,0.0,10.0,30.0
+CB-2157,2026-06-15,Deira,Masala Chai,Beverages,Talabat,Delivery,2,16,0.8,3.8,11.4
+CB-2158,2026-06-16,Karama,Paneer Tikka,Mains,Talabat,Delivery,1,28,0.0,7.0,21.0
+CB-2159,2026-06-16,Karama,Pani Puri,Chaat,Direct,Takeaway,2,24,0.0,0.0,24.0
+CB-2160,2026-06-16,Karama,Samosa Chaat,Chaat,Noon,Delivery,6,90,9.0,16.2,64.8
+CB-2161,2026-06-16,Karama,Chole Bhature,Mains,Direct,Takeaway,1,24,0.0,0.0,24.0
+CB-2162,2026-06-16,JVC,Mango Lassi,Beverages,Careem,Delivery,2,24,0.0,5.28,18.72
+CB-2163,2026-06-16,Deira,Chole Bhature,Mains,Direct,Takeaway,1,24,0.0,0.0,24.0
+CB-2164,2026-06-17,Karama,Masala Chai,Beverages,Talabat,Delivery,5,40,0.0,10.0,30.0
+CB-2165,2026-06-17,Karama,Pani Puri,Chaat,Careem,Delivery,5,60,0.0,13.2,46.8
+CB-2166,2026-06-17,Karama,Samosa Chaat,Chaat,Direct,Dine-in,6,90,13.5,0.0,76.5
+CB-2167,2026-06-17,Karama,Mango Lassi,Beverages,Talabat,Delivery,2,24,2.4,5.4,16.2
+CB-2168,2026-06-17,Karama,Pav Bhaji,Mains,Talabat,Delivery,6,132,13.2,29.7,89.1
+CB-2169,2026-06-17,Muweilah,Chole Bhature,Mains,Direct,Takeaway,5,120,0.0,0.0,120.0
+CB-2170,2026-06-17,Muweilah,Masala Chai,Beverages,Direct,Dine-in,6,48,0.0,0.0,48.0
+CB-2171,2026-06-17,Muweilah,Pani Puri,Chaat,Noon,Delivery,2,24,3.6,4.08,16.32
+CB-2172,2026-06-17,JVC,Masala Dosa,Mains,Talabat,Delivery,4,80,0.0,20.0,60.0
+CB-2173,2026-06-17,JVC,Falooda,Desserts,Careem,Delivery,4,64,0.0,14.08,49.92
+CB-2174,2026-06-17,JVC,Aloo Tikki Chaat,Chaat,Talabat,Delivery,3,48,0.0,12.0,36.0
+CB-2175,2026-06-17,Deira,Samosa Chaat,Chaat,Careem,Delivery,3,45,2.25,9.4,33.35
+CB-2176,2026-06-17,Deira,Bhel Puri,Chaat,Direct,Dine-in,3,36,0.0,0.0,36.0
+CB-2177,2026-06-18,Karama,Pav Bhaji,Mains,Talabat,Delivery,1,22,0.0,5.5,16.5
+CB-2178,2026-06-18,Karama,Samosa Chaat,Chaat,Careem,Delivery,6,90,0.0,19.8,70.2
+CB-2179,2026-06-18,Muweilah,Sev Puri,Chaat,Talabat,Delivery,2,26,0.0,6.5,19.5
+CB-2180,2026-06-18,Muweilah,Masala Dosa,Mains,Direct,Takeaway,4,80,0.0,0.0,80.0
+CB-2181,2026-06-18,Muweilah,Samosa Chaat,Chaat,Talabat,Delivery,1,15,1.5,3.38,10.12
+CB-2182,2026-06-18,Muweilah,Masala Chai,Beverages,Careem,Delivery,5,40,0.0,8.8,31.2
+CB-2183,2026-06-18,Muweilah,Masala Chai,Beverages,Careem,Delivery,2,16,0.8,3.34,11.86
+CB-2184,2026-06-18,Muweilah,Falooda,Desserts,Talabat,Delivery,3,48,4.8,10.8,32.4
+CB-2185,2026-06-18,Muweilah,Bhel Puri,Chaat,Talabat,Delivery,1,12,1.2,2.7,8.1
+CB-2186,2026-06-18,Barsha,Masala Chai,Beverages,Talabat,Delivery,1,8,0.8,1.8,5.4
+CB-2187,2026-06-18,Deira,Bhel Puri,Chaat,Careem,Delivery,6,72,0.0,15.84,56.16
+CB-2188,2026-06-19,Karama,Samosa Chaat,Chaat,Talabat,Delivery,2,30,0.0,7.5,22.5
+CB-2189,2026-06-19,Karama,Samosa Chaat,Chaat,Direct,Takeaway,6,90,0.0,0.0,90.0
+CB-2190,2026-06-19,Karama,Pani Puri,Chaat,Talabat,Delivery,2,24,0.0,6.0,18.0
+CB-2191,2026-06-19,Karama,Sev Puri,Chaat,Direct,Takeaway,6,78,0.0,0.0,78.0
+CB-2192,2026-06-19,Karama,Chole Bhature,Mains,Careem,Delivery,4,96,14.4,17.95,63.65
+CB-2193,2026-06-19,Karama,Masala Chai,Beverages,Direct,Takeaway,2,16,0.0,0.0,16.0
+CB-2194,2026-06-19,Karama,Aloo Tikki Chaat,Chaat,Direct,Takeaway,1,16,0.0,0.0,16.0
+CB-2195,2026-06-19,Muweilah,Pani Puri,Chaat,Noon,Delivery,3,36,5.4,6.12,24.48
+CB-2196,2026-06-19,Muweilah,Pani Puri,Chaat,Talabat,Delivery,3,36,0.0,9.0,27.0
+CB-2197,2026-06-19,Muweilah,Paneer Tikka,Mains,Talabat,Delivery,3,84,0.0,21.0,63.0
+CB-2198,2026-06-19,Muweilah,Sev Puri,Chaat,Direct,Takeaway,3,39,0.0,0.0,39.0
+CB-2199,2026-06-19,Muweilah,Masala Dosa,Mains,Noon,Delivery,1,20,3.0,3.4,13.6
+CB-2200,2026-06-19,Muweilah,Dahi Puri,Chaat,Talabat,Delivery,3,42,0.0,10.5,31.5
+CB-2201,2026-06-19,JVC,Mango Lassi,Beverages,Careem,Delivery,5,60,9.0,11.22,39.78
+CB-2202,2026-06-19,Barsha,Aloo Tikki Chaat,Chaat,Direct,Dine-in,5,80,4.0,0.0,76.0
+CB-2203,2026-06-19,Barsha,Masala Chai,Beverages,Careem,Delivery,3,24,0.0,5.28,18.72
+CB-2204,2026-06-19,Deira,Vada Pav,Snacks,Noon,Delivery,2,20,0.0,4.0,16.0
+CB-2205,2026-06-19,Deira,Paneer Tikka,Mains,Direct,Dine-in,1,28,0.0,0.0,28.0
+CB-2206,2026-06-19,Deira,Dahi Puri,Chaat,Careem,Delivery,1,14,0.7,2.93,10.37
+CB-2207,2026-06-20,Karama,Samosa Chaat,Chaat,Talabat,Delivery,2,30,0.0,7.5,22.5
+CB-2208,2026-06-20,Karama,Dahi Puri,Chaat,Direct,Takeaway,2,28,0.0,0.0,28.0
+CB-2209,2026-06-20,Karama,Masala Dosa,Mains,Direct,Dine-in,5,100,0.0,0.0,100.0
+CB-2210,2026-06-20,Muweilah,Mango Lassi,Beverages,Careem,Delivery,4,48,0.0,10.56,37.44
+CB-2211,2026-06-20,Muweilah,Falooda,Desserts,Careem,Delivery,6,96,0.0,21.12,74.88
+CB-2212,2026-06-20,Muweilah,Pav Bhaji,Mains,Careem,Delivery,6,132,0.0,29.04,102.96
+CB-2213,2026-06-20,Muweilah,Bhel Puri,Chaat,Talabat,Delivery,3,36,5.4,7.65,22.95
+CB-2214,2026-06-20,JVC,Paneer Tikka,Mains,Talabat,Delivery,6,168,0.0,42.0,126.0
+CB-2215,2026-06-20,JVC,Masala Dosa,Mains,Talabat,Delivery,3,60,0.0,15.0,45.0
+CB-2216,2026-06-20,JVC,Mango Lassi,Beverages,Direct,Dine-in,3,36,0.0,0.0,36.0
+CB-2217,2026-06-20,JVC,Masala Chai,Beverages,Talabat,Delivery,1,8,0.8,1.8,5.4
+CB-2218,2026-06-20,JVC,Masala Chai,Beverages,Talabat,Delivery,4,32,0.0,8.0,24.0
+CB-2219,2026-06-20,JVC,Dahi Puri,Chaat,Direct,Dine-in,1,14,0.0,0.0,14.0
+CB-2220,2026-06-20,Barsha,Masala Chai,Beverages,Talabat,Delivery,3,24,0.0,6.0,18.0
+CB-2221,2026-06-20,Barsha,Paneer Tikka,Mains,Direct,Dine-in,3,84,8.4,0.0,75.6
+CB-2222,2026-06-20,Barsha,Vada Pav,Snacks,Talabat,Delivery,4,40,0.0,10.0,30.0
+CB-2223,2026-06-20,Deira,Gulab Jamun,Desserts,Direct,Dine-in,4,40,0.0,0.0,40.0
+CB-2224,2026-06-20,Deira,Pani Puri,Chaat,Noon,Delivery,3,36,0.0,7.2,28.8
+CB-2225,2026-06-20,Deira,Masala Chai,Beverages,Noon,Delivery,5,40,4.0,7.2,28.8
+CB-2226,2026-06-20,Deira,Sev Puri,Chaat,Noon,Delivery,5,65,3.25,12.35,49.4
+CB-2227,2026-06-20,Deira,Pav Bhaji,Mains,Direct,Takeaway,2,44,0.0,0.0,44.0
+CB-2228,2026-06-21,Karama,Chole Bhature,Mains,Talabat,Delivery,2,48,0.0,12.0,36.0
+CB-2229,2026-06-21,JVC,Masala Chai,Beverages,Careem,Delivery,1,8,0.0,1.76,6.24
+CB-2230,2026-06-21,JVC,Mango Lassi,Beverages,Talabat,Delivery,2,24,0.0,6.0,18.0
+CB-2231,2026-06-21,Barsha,Masala Chai,Beverages,Talabat,Delivery,5,40,0.0,10.0,30.0
+CB-2232,2026-06-21,Deira,Dahi Puri,Chaat,Noon,Delivery,4,56,2.8,10.64,42.56
+CB-2233,2026-06-21,Deira,Pani Puri,Chaat,Talabat,Delivery,2,24,0.0,6.0,18.0
+CB-2234,2026-06-21,Deira,Masala Chai,Beverages,Talabat,Delivery,1,8,1.2,1.7,5.1
+CB-2235,2026-06-22,Karama,Vada Pav,Snacks,Careem,Delivery,3,30,3.0,5.94,21.06
+CB-2236,2026-06-22,Muweilah,Sev Puri,Chaat,Noon,Delivery,2,26,0.0,5.2,20.8
+CB-2237,2026-06-22,Muweilah,Mango Lassi,Beverages,Careem,Delivery,5,60,3.0,12.54,44.46
+CB-2238,2026-06-22,Muweilah,Pani Puri,Chaat,Talabat,Delivery,6,72,0.0,18.0,54.0
+CB-2239,2026-06-22,JVC,Mango Lassi,Beverages,Noon,Delivery,4,48,0.0,9.6,38.4
+CB-2240,2026-06-22,Barsha,Sev Puri,Chaat,Careem,Delivery,3,39,0.0,8.58,30.42
+CB-2241,2026-06-23,Muweilah,Mango Lassi,Beverages,Talabat,Delivery,4,48,0.0,12.0,36.0
+CB-2242,2026-06-23,Muweilah,Falooda,Desserts,Careem,Delivery,3,48,0.0,10.56,37.44
+CB-2243,2026-06-23,JVC,Dahi Puri,Chaat,Noon,Delivery,1,14,0.0,2.8,11.2
+CB-2244,2026-06-23,Deira,Mango Lassi,Beverages,Talabat,Delivery,2,24,0.0,6.0,18.0
+CB-2245,2026-06-24,Muweilah,Dahi Puri,Chaat,Noon,Delivery,2,28,2.8,5.04,20.16
+CB-2246,2026-06-24,JVC,Samosa Chaat,Chaat,Talabat,Delivery,3,45,0.0,11.25,33.75
+CB-2247,2026-06-24,Barsha,Sev Puri,Chaat,Talabat,Delivery,4,52,7.8,11.05,33.15
+CB-2248,2026-06-24,Barsha,Masala Chai,Beverages,Careem,Delivery,6,48,7.2,8.98,31.82
+CB-2249,2026-06-24,Barsha,Pav Bhaji,Mains,Careem,Delivery,2,44,6.6,8.23,29.17
+CB-2250,2026-06-24,Barsha,Vada Pav,Snacks,Talabat,Delivery,5,50,0.0,12.5,37.5
+CB-2251,2026-06-24,Barsha,Dahi Puri,Chaat,Talabat,Delivery,4,56,0.0,14.0,42.0
+CB-2252,2026-06-24,Deira,Vada Pav,Snacks,Noon,Delivery,5,50,7.5,8.5,34.0
+CB-2253,2026-06-24,Deira,Vada Pav,Snacks,Direct,Dine-in,4,40,0.0,0.0,40.0
+CB-2254,2026-06-25,Karama,Aloo Tikki Chaat,Chaat,Careem,Delivery,3,48,0.0,10.56,37.44
+CB-2255,2026-06-25,Karama,Masala Chai,Beverages,Talabat,Delivery,6,48,0.0,12.0,36.0
+CB-2256,2026-06-25,Karama,Masala Chai,Beverages,Noon,Delivery,3,24,0.0,4.8,19.2
+CB-2257,2026-06-25,Karama,Falooda,Desserts,Direct,Takeaway,2,32,0.0,0.0,32.0
+CB-2258,2026-06-25,JVC,Paneer Tikka,Mains,Talabat,Delivery,6,168,0.0,42.0,126.0
+CB-2259,2026-06-25,JVC,Mango Lassi,Beverages,Noon,Delivery,4,48,0.0,9.6,38.4
+CB-2260,2026-06-25,JVC,Pani Puri,Chaat,Careem,Delivery,4,48,0.0,10.56,37.44
+CB-2261,2026-06-25,JVC,Aloo Tikki Chaat,Chaat,Direct,Dine-in,5,80,0.0,0.0,80.0
+CB-2262,2026-06-25,Deira,Gulab Jamun,Desserts,Direct,Takeaway,2,20,2.0,0.0,18.0
+CB-2263,2026-06-25,Deira,Mango Lassi,Beverages,Direct,Dine-in,2,24,0.0,0.0,24.0
+CB-2264,2026-06-26,Karama,Samosa Chaat,Chaat,Careem,Delivery,1,15,0.75,3.14,11.11
+CB-2265,2026-06-26,Karama,Sev Puri,Chaat,Direct,Dine-in,5,65,6.5,0.0,58.5
+CB-2266,2026-06-26,Karama,Pav Bhaji,Mains,Talabat,Delivery,4,88,0.0,22.0,66.0
+CB-2267,2026-06-26,Karama,Paneer Tikka,Mains,Talabat,Delivery,3,84,0.0,21.0,63.0
+CB-2268,2026-06-26,Karama,Pani Puri,Chaat,Noon,Delivery,4,48,0.0,9.6,38.4
+CB-2269,2026-06-26,Karama,Samosa Chaat,Chaat,Talabat,Delivery,3,45,0.0,11.25,33.75
+CB-2270,2026-06-26,Muweilah,Vada Pav,Snacks,Direct,Takeaway,2,20,3.0,0.0,17.0
+CB-2271,2026-06-26,Barsha,Chole Bhature,Mains,Talabat,Delivery,3,72,10.8,15.3,45.9
+CB-2272,2026-06-26,Barsha,Paneer Tikka,Mains,Talabat,Delivery,6,168,0.0,42.0,126.0
+CB-2273,2026-06-26,Barsha,Pani Puri,Chaat,Direct,Takeaway,2,24,2.4,0.0,21.6
+CB-2274,2026-06-26,Barsha,Pani Puri,Chaat,Talabat,Delivery,1,12,0.0,3.0,9.0
+CB-2275,2026-06-26,Deira,Pani Puri,Chaat,Noon,Delivery,6,72,10.8,12.24,48.96
+CB-2276,2026-06-26,Deira,Dahi Puri,Chaat,Careem,Delivery,4,56,8.4,10.47,37.13
+CB-2277,2026-06-26,Deira,Mango Lassi,Beverages,Talabat,Delivery,2,24,1.2,5.7,17.1
+CB-2278,2026-06-27,Karama,Gulab Jamun,Desserts,Direct,Takeaway,3,30,0.0,0.0,30.0
+CB-2279,2026-06-27,Karama,Aloo Tikki Chaat,Chaat,Careem,Delivery,2,32,0.0,7.04,24.96
+CB-2280,2026-06-27,Karama,Pani Puri,Chaat,Talabat,Delivery,3,36,1.8,8.55,25.65
+CB-2281,2026-06-27,Karama,Falooda,Desserts,Careem,Delivery,6,96,0.0,21.12,74.88
+CB-2282,2026-06-27,Karama,Dahi Puri,Chaat,Talabat,Delivery,4,56,8.4,11.9,35.7
+CB-2283,2026-06-27,Karama,Pav Bhaji,Mains,Talabat,Delivery,4,88,13.2,18.7,56.1
+CB-2284,2026-06-27,Karama,Pani Puri,Chaat,Talabat,Delivery,6,72,0.0,18.0,54.0
+CB-2285,2026-06-27,Muweilah,Falooda,Desserts,Careem,Delivery,2,32,0.0,7.04,24.96
+CB-2286,2026-06-27,JVC,Aloo Tikki Chaat,Chaat,Direct,Dine-in,4,64,0.0,0.0,64.0
+CB-2287,2026-06-27,JVC,Gulab Jamun,Desserts,Careem,Delivery,2,20,0.0,4.4,15.6
+CB-2288,2026-06-27,JVC,Chole Bhature,Mains,Noon,Delivery,3,72,0.0,14.4,57.6
+CB-2289,2026-06-27,Barsha,Samosa Chaat,Chaat,Noon,Delivery,2,30,4.5,5.1,20.4
+CB-2290,2026-06-27,Barsha,Samosa Chaat,Chaat,Talabat,Delivery,4,60,0.0,15.0,45.0
+CB-2291,2026-06-27,Barsha,Vada Pav,Snacks,Careem,Delivery,3,30,4.5,5.61,19.89
+CB-2292,2026-06-27,Deira,Masala Dosa,Mains,Talabat,Delivery,2,40,0.0,10.0,30.0
+CB-2293,2026-06-27,Deira,Gulab Jamun,Desserts,Talabat,Delivery,2,20,0.0,5.0,15.0
+CB-2294,2026-06-28,Karama,Paneer Tikka,Mains,Direct,Takeaway,5,140,0.0,0.0,140.0
+CB-2295,2026-06-28,Karama,Mango Lassi,Beverages,Direct,Takeaway,5,60,0.0,0.0,60.0
+CB-2296,2026-06-28,Muweilah,Pav Bhaji,Mains,Direct,Takeaway,1,22,0.0,0.0,22.0
+CB-2297,2026-06-28,Muweilah,Masala Chai,Beverages,Talabat,Delivery,3,24,0.0,6.0,18.0
+CB-2298,2026-06-28,Muweilah,Masala Chai,Beverages,Noon,Delivery,1,8,0.8,1.44,5.76
+CB-2299,2026-06-28,Muweilah,Samosa Chaat,Chaat,Talabat,Delivery,1,15,0.0,3.75,11.25
+CB-2300,2026-06-28,JVC,Mango Lassi,Beverages,Careem,Delivery,6,72,3.6,15.05,53.35
+CB-2301,2026-06-28,Barsha,Pav Bhaji,Mains,Talabat,Delivery,5,110,0.0,27.5,82.5
+CB-2302,2026-06-28,Deira,Paneer Tikka,Mains,Direct,Dine-in,1,28,0.0,0.0,28.0
+CB-2303,2026-06-29,Karama,Dahi Puri,Chaat,Careem,Delivery,3,42,0.0,9.24,32.76
+CB-2304,2026-06-29,Karama,Bhel Puri,Chaat,Careem,Delivery,6,72,0.0,15.84,56.16
+CB-2305,2026-06-29,Karama,Samosa Chaat,Chaat,Talabat,Delivery,5,75,0.0,18.75,56.25
+CB-2306,2026-06-29,Karama,Aloo Tikki Chaat,Chaat,Careem,Delivery,6,96,4.8,20.06,71.14
+CB-2307,2026-06-29,Karama,Pav Bhaji,Mains,Direct,Dine-in,2,44,0.0,0.0,44.0
+CB-2308,2026-06-29,Muweilah,Pav Bhaji,Mains,Talabat,Delivery,6,132,0.0,33.0,99.0
+CB-2309,2026-06-29,Muweilah,Chole Bhature,Mains,Careem,Delivery,5,120,12.0,23.76,84.24
+CB-2310,2026-06-29,Muweilah,Dahi Puri,Chaat,Talabat,Delivery,4,56,2.8,13.3,39.9
+CB-2311,2026-06-29,Muweilah,Gulab Jamun,Desserts,Direct,Takeaway,5,50,5.0,0.0,45.0
+CB-2312,2026-06-29,Muweilah,Vada Pav,Snacks,Talabat,Delivery,5,50,0.0,12.5,37.5
+CB-2313,2026-06-29,Muweilah,Aloo Tikki Chaat,Chaat,Direct,Takeaway,2,32,0.0,0.0,32.0
+CB-2314,2026-06-30,Karama,Masala Chai,Beverages,Talabat,Delivery,2,16,0.0,4.0,12.0
+CB-2315,2026-06-30,Karama,Samosa Chaat,Chaat,Direct,Takeaway,2,30,1.5,0.0,28.5
+CB-2316,2026-06-30,Karama,Bhel Puri,Chaat,Talabat,Delivery,3,36,0.0,9.0,27.0
+CB-2317,2026-06-30,Karama,Vada Pav,Snacks,Careem,Delivery,6,60,0.0,13.2,46.8
+CB-2318,2026-06-30,Muweilah,Chole Bhature,Mains,Talabat,Delivery,3,72,0.0,18.0,54.0
+CB-2319,2026-06-30,Muweilah,Pav Bhaji,Mains,Talabat,Delivery,6,132,6.6,31.35,94.05
+CB-2320,2026-06-30,Muweilah,Vada Pav,Snacks,Talabat,Delivery,3,30,0.0,7.5,22.5
+CB-2321,2026-06-30,Muweilah,Dahi Puri,Chaat,Talabat,Delivery,5,70,0.0,17.5,52.5
+CB-2322,2026-06-30,JVC,Vada Pav,Snacks,Direct,Dine-in,4,40,6.0,0.0,34.0
+CB-2323,2026-06-30,JVC,Masala Chai,Beverages,Talabat,Delivery,1,8,0.0,2.0,6.0
+CB-2324,2026-06-30,JVC,Dahi Puri,Chaat,Careem,Delivery,5,70,0.0,15.4,54.6
+CB-2325,2026-06-30,Barsha,Falooda,Desserts,Noon,Delivery,4,64,0.0,12.8,51.2
+CB-2326,2026-06-30,Deira,Gulab Jamun,Desserts,Talabat,Delivery,5,50,0.0,12.5,37.5
+CB-2327,2026-07-01,Karama,Samosa Chaat,Chaat,Talabat,Delivery,5,75,3.75,17.81,53.44
+CB-2328,2026-07-01,Karama,Falooda,Desserts,Talabat,Delivery,4,64,6.4,14.4,43.2
+CB-2329,2026-07-01,Muweilah,Sev Puri,Chaat,Direct,Takeaway,1,13,0.65,0.0,12.35
+CB-2330,2026-07-01,Muweilah,Masala Chai,Beverages,Talabat,Delivery,1,8,0.4,1.9,5.7
+CB-2331,2026-07-01,JVC,Masala Chai,Beverages,Direct,Dine-in,6,48,0.0,0.0,48.0
+CB-2332,2026-07-01,JVC,Pav Bhaji,Mains,Talabat,Delivery,1,22,0.0,5.5,16.5
+CB-2333,2026-07-01,JVC,Vada Pav,Snacks,Careem,Delivery,5,50,5.0,9.9,35.1
+CB-2334,2026-07-01,Deira,Gulab Jamun,Desserts,Direct,Takeaway,5,50,2.5,0.0,47.5
+CB-2335,2026-07-01,Deira,Aloo Tikki Chaat,Chaat,Direct,Takeaway,6,96,0.0,0.0,96.0
+CB-2336,2026-07-01,Deira,Pani Puri,Chaat,Direct,Takeaway,3,36,0.0,0.0,36.0
+CB-2337,2026-07-02,Karama,Masala Chai,Beverages,Careem,Delivery,6,48,0.0,10.56,37.44
+CB-2338,2026-07-02,Karama,Paneer Tikka,Mains,Noon,Delivery,6,168,0.0,33.6,134.4
+CB-2339,2026-07-02,Karama,Masala Chai,Beverages,Talabat,Delivery,5,40,0.0,10.0,30.0
+CB-2340,2026-07-02,Karama,Pani Puri,Chaat,Careem,Delivery,3,36,3.6,7.13,25.27
+CB-2341,2026-07-02,JVC,Bhel Puri,Chaat,Noon,Delivery,3,36,3.6,6.48,25.92
+CB-2342,2026-07-02,JVC,Mango Lassi,Beverages,Noon,Delivery,2,24,0.0,4.8,19.2
+CB-2343,2026-07-02,Barsha,Pani Puri,Chaat,Talabat,Delivery,2,24,3.6,5.1,15.3
+CB-2344,2026-07-02,Deira,Vada Pav,Snacks,Direct,Takeaway,1,10,0.0,0.0,10.0
+CB-2345,2026-07-02,Deira,Masala Chai,Beverages,Direct,Dine-in,1,8,0.0,0.0,8.0
+CB-2346,2026-07-02,Deira,Gulab Jamun,Desserts,Talabat,Delivery,2,20,3.0,4.25,12.75
+CB-2347,2026-07-03,Karama,Samosa Chaat,Chaat,Talabat,Delivery,6,90,0.0,22.5,67.5
+CB-2348,2026-07-03,Karama,Pani Puri,Chaat,Direct,Dine-in,1,12,1.2,0.0,10.8
+CB-2349,2026-07-03,Muweilah,Pav Bhaji,Mains,Talabat,Delivery,1,22,1.1,5.22,15.68
+CB-2350,2026-07-03,Muweilah,Samosa Chaat,Chaat,Talabat,Delivery,2,30,0.0,7.5,22.5
+CB-2351,2026-07-03,Muweilah,Aloo Tikki Chaat,Chaat,Direct,Takeaway,6,96,9.6,0.0,86.4
+CB-2352,2026-07-03,Muweilah,Masala Chai,Beverages,Talabat,Delivery,2,16,0.0,4.0,12.0
+CB-2353,2026-07-03,Muweilah,Falooda,Desserts,Noon,Delivery,2,32,0.0,6.4,25.6
+CB-2354,2026-07-03,Muweilah,Sev Puri,Chaat,Careem,Delivery,3,39,0.0,8.58,30.42
+CB-2355,2026-07-03,Muweilah,Masala Dosa,Mains,Noon,Delivery,4,80,0.0,16.0,64.0
+CB-2356,2026-07-03,JVC,Vada Pav,Snacks,Careem,Delivery,3,30,0.0,6.6,23.4
+CB-2357,2026-07-03,JVC,Masala Chai,Beverages,Careem,Delivery,1,8,0.0,1.76,6.24
+CB-2358,2026-07-03,JVC,Chole Bhature,Mains,Direct,Takeaway,1,24,0.0,0.0,24.0
+CB-2359,2026-07-03,Barsha,Masala Chai,Beverages,Careem,Delivery,1,8,0.0,1.76,6.24
+CB-2360,2026-07-03,Barsha,Falooda,Desserts,Careem,Delivery,1,16,0.0,3.52,12.48
+CB-2361,2026-07-03,Barsha,Gulab Jamun,Desserts,Careem,Delivery,4,40,0.0,8.8,31.2
+CB-2362,2026-07-03,Barsha,Pani Puri,Chaat,Talabat,Delivery,3,36,0.0,9.0,27.0
+CB-2363,2026-07-03,Deira,Samosa Chaat,Chaat,Direct,Takeaway,1,15,0.0,0.0,15.0
+CB-2364,2026-07-03,Deira,Sev Puri,Chaat,Direct,Takeaway,3,39,0.0,0.0,39.0
+CB-2365,2026-07-03,Deira,Dahi Puri,Chaat,Direct,Takeaway,2,28,0.0,0.0,28.0
+CB-2366,2026-07-04,Karama,Masala Dosa,Mains,Talabat,Delivery,5,100,15.0,21.25,63.75
+CB-2367,2026-07-04,Karama,Paneer Tikka,Mains,Noon,Delivery,6,168,16.8,30.24,120.96
+CB-2368,2026-07-04,Karama,Dahi Puri,Chaat,Direct,Takeaway,3,42,4.2,0.0,37.8
+CB-2369,2026-07-04,Karama,Vada Pav,Snacks,Careem,Delivery,2,20,3.0,3.74,13.26
+CB-2370,2026-07-04,Karama,Masala Chai,Beverages,Direct,Dine-in,6,48,0.0,0.0,48.0
+CB-2371,2026-07-04,Muweilah,Aloo Tikki Chaat,Chaat,Noon,Delivery,2,32,0.0,6.4,25.6
+CB-2372,2026-07-04,Muweilah,Dahi Puri,Chaat,Talabat,Delivery,4,56,0.0,14.0,42.0
+CB-2373,2026-07-04,Muweilah,Masala Chai,Beverages,Talabat,Delivery,6,48,0.0,12.0,36.0
+CB-2374,2026-07-04,Muweilah,Sev Puri,Chaat,Talabat,Delivery,1,13,0.0,3.25,9.75
+CB-2375,2026-07-04,JVC,Masala Dosa,Mains,Talabat,Delivery,2,40,0.0,10.0,30.0
+CB-2376,2026-07-04,Barsha,Vada Pav,Snacks,Careem,Delivery,5,50,0.0,11.0,39.0
+CB-2377,2026-07-04,Deira,Falooda,Desserts,Talabat,Delivery,3,48,0.0,12.0,36.0
+CB-2378,2026-07-04,Deira,Dahi Puri,Chaat,Talabat,Delivery,5,70,3.5,16.62,49.88
+CB-2379,2026-07-05,Karama,Dahi Puri,Chaat,Careem,Delivery,4,56,0.0,12.32,43.68
+CB-2380,2026-07-05,Karama,Masala Chai,Beverages,Careem,Delivery,3,24,0.0,5.28,18.72
+CB-2381,2026-07-05,Karama,Masala Dosa,Mains,Direct,Takeaway,1,20,1.0,0.0,19.0
+CB-2382,2026-07-05,Karama,Samosa Chaat,Chaat,Direct,Takeaway,5,75,0.0,0.0,75.0
+CB-2383,2026-07-05,Muweilah,Vada Pav,Snacks,Talabat,Delivery,4,40,0.0,10.0,30.0
+CB-2384,2026-07-05,JVC,Dahi Puri,Chaat,Direct,Takeaway,4,56,0.0,0.0,56.0
+CB-2385,2026-07-05,Barsha,Gulab Jamun,Desserts,Noon,Delivery,2,20,3.0,3.4,13.6
+CB-2386,2026-07-05,Barsha,Pani Puri,Chaat,Careem,Delivery,6,72,7.2,14.26,50.54
+CB-2387,2026-07-05,Deira,Samosa Chaat,Chaat,Direct,Takeaway,4,60,0.0,0.0,60.0
+CB-2388,2026-07-05,Deira,Mango Lassi,Beverages,Direct,Dine-in,4,48,0.0,0.0,48.0
+CB-2389,2026-07-06,Karama,Pav Bhaji,Mains,Talabat,Delivery,4,88,4.4,20.9,62.7
+CB-2390,2026-07-06,Karama,Mango Lassi,Beverages,Talabat,Delivery,6,72,0.0,18.0,54.0
+CB-2391,2026-07-06,Karama,Bhel Puri,Chaat,Direct,Takeaway,4,48,7.2,0.0,40.8
+CB-2392,2026-07-06,Karama,Paneer Tikka,Mains,Talabat,Delivery,4,112,0.0,28.0,84.0
+CB-2393,2026-07-06,JVC,Masala Chai,Beverages,Careem,Delivery,6,48,0.0,10.56,37.44
+CB-2394,2026-07-06,JVC,Mango Lassi,Beverages,Talabat,Delivery,5,60,6.0,13.5,40.5
+CB-2395,2026-07-06,Barsha,Pav Bhaji,Mains,Direct,Dine-in,4,88,0.0,0.0,88.0
+CB-2396,2026-07-06,Barsha,Pani Puri,Chaat,Noon,Delivery,1,12,0.0,2.4,9.6
+CB-2397,2026-07-06,Barsha,Vada Pav,Snacks,Talabat,Delivery,5,50,0.0,12.5,37.5
+CB-2398,2026-07-06,Deira,Aloo Tikki Chaat,Chaat,Direct,Takeaway,3,48,0.0,0.0,48.0
+CB-2399,2026-07-07,Muweilah,Aloo Tikki Chaat,Chaat,Direct,Dine-in,1,16,0.0,0.0,16.0
+CB-2400,2026-07-07,Muweilah,Pav Bhaji,Mains,Talabat,Delivery,4,88,0.0,22.0,66.0
+CB-2401,2026-07-07,JVC,Gulab Jamun,Desserts,Noon,Delivery,2,20,0.0,4.0,16.0
+CB-2402,2026-07-07,Barsha,Paneer Tikka,Mains,Noon,Delivery,1,28,4.2,4.76,19.04
+CB-2403,2026-07-07,Deira,Chole Bhature,Mains,Noon,Delivery,4,96,0.0,19.2,76.8
+CB-2404,2026-07-08,Karama,Mango Lassi,Beverages,Careem,Delivery,1,12,0.0,2.64,9.36
+CB-2405,2026-07-08,Muweilah,Gulab Jamun,Desserts,Talabat,Delivery,6,60,0.0,15.0,45.0
+CB-2406,2026-07-08,Muweilah,Vada Pav,Snacks,Talabat,Delivery,2,20,3.0,4.25,12.75
+CB-2407,2026-07-08,Muweilah,Gulab Jamun,Desserts,Careem,Delivery,6,60,0.0,13.2,46.8
+CB-2408,2026-07-08,JVC,Vada Pav,Snacks,Direct,Takeaway,2,20,0.0,0.0,20.0
+CB-2409,2026-07-08,JVC,Sev Puri,Chaat,Talabat,Delivery,6,78,0.0,19.5,58.5
+CB-2410,2026-07-08,Barsha,Dahi Puri,Chaat,Noon,Delivery,4,56,0.0,11.2,44.8
+CB-2411,2026-07-08,Deira,Pav Bhaji,Mains,Direct,Dine-in,5,110,0.0,0.0,110.0
+CB-2412,2026-07-09,Karama,Pav Bhaji,Mains,Talabat,Delivery,6,132,0.0,33.0,99.0
+CB-2413,2026-07-09,Karama,Masala Chai,Beverages,Talabat,Delivery,3,24,1.2,5.7,17.1
+CB-2414,2026-07-09,Karama,Masala Dosa,Mains,Direct,Dine-in,1,20,1.0,0.0,19.0
+CB-2415,2026-07-09,Muweilah,Chole Bhature,Mains,Careem,Delivery,5,120,0.0,26.4,93.6
+CB-2416,2026-07-09,Muweilah,Pani Puri,Chaat,Noon,Delivery,1,12,0.0,2.4,9.6
+CB-2417,2026-07-09,Deira,Bhel Puri,Chaat,Talabat,Delivery,6,72,0.0,18.0,54.0
+CB-2418,2026-07-10,Karama,Pani Puri,Chaat,Talabat,Delivery,2,24,1.2,5.7,17.1
+CB-2419,2026-07-10,Karama,Falooda,Desserts,Direct,Takeaway,2,32,0.0,0.0,32.0
+CB-2420,2026-07-10,Karama,Masala Chai,Beverages,Careem,Delivery,4,32,1.6,6.69,23.71
+CB-2421,2026-07-10,Muweilah,Masala Chai,Beverages,Direct,Dine-in,1,8,0.0,0.0,8.0
+CB-2422,2026-07-10,Muweilah,Masala Chai,Beverages,Talabat,Delivery,5,40,0.0,10.0,30.0
+CB-2423,2026-07-10,Muweilah,Samosa Chaat,Chaat,Direct,Takeaway,5,75,0.0,0.0,75.0
+CB-2424,2026-07-10,Muweilah,Vada Pav,Snacks,Talabat,Delivery,3,30,0.0,7.5,22.5
+CB-2425,2026-07-10,Muweilah,Vada Pav,Snacks,Careem,Delivery,1,10,0.0,2.2,7.8
+CB-2426,2026-07-10,Muweilah,Vada Pav,Snacks,Direct,Takeaway,6,60,0.0,0.0,60.0
+CB-2427,2026-07-10,Muweilah,Bhel Puri,Chaat,Careem,Delivery,4,48,0.0,10.56,37.44
+CB-2428,2026-07-10,JVC,Vada Pav,Snacks,Careem,Delivery,3,30,0.0,6.6,23.4
+CB-2429,2026-07-10,Barsha,Samosa Chaat,Chaat,Careem,Delivery,5,75,3.75,15.68,55.57
+CB-2430,2026-07-10,Barsha,Bhel Puri,Chaat,Careem,Delivery,1,12,0.0,2.64,9.36
+CB-2431,2026-07-10,Barsha,Masala Chai,Beverages,Careem,Delivery,6,48,0.0,10.56,37.44
+CB-2432,2026-07-10,Barsha,Masala Chai,Beverages,Careem,Delivery,1,8,0.0,1.76,6.24
+CB-2433,2026-07-10,Deira,Falooda,Desserts,Direct,Dine-in,1,16,0.0,0.0,16.0
+CB-2434,2026-07-10,Deira,Masala Chai,Beverages,Direct,Dine-in,2,16,0.0,0.0,16.0
+CB-2435,2026-07-11,Karama,Pani Puri,Chaat,Direct,Takeaway,1,12,0.0,0.0,12.0
+CB-2436,2026-07-11,Karama,Sev Puri,Chaat,Direct,Takeaway,6,78,0.0,0.0,78.0
+CB-2437,2026-07-11,Karama,Dahi Puri,Chaat,Careem,Delivery,3,42,4.2,8.32,29.48
+CB-2438,2026-07-11,Karama,Paneer Tikka,Mains,Talabat,Delivery,4,112,0.0,28.0,84.0
+CB-2439,2026-07-11,Muweilah,Masala Chai,Beverages,Direct,Dine-in,1,8,0.8,0.0,7.2
+CB-2440,2026-07-11,Muweilah,Aloo Tikki Chaat,Chaat,Talabat,Delivery,1,16,0.0,4.0,12.0
+CB-2441,2026-07-11,Muweilah,Pani Puri,Chaat,Talabat,Delivery,3,36,0.0,9.0,27.0
+CB-2442,2026-07-11,JVC,Aloo Tikki Chaat,Chaat,Careem,Delivery,3,48,0.0,10.56,37.44
+CB-2443,2026-07-11,JVC,Masala Chai,Beverages,Careem,Delivery,1,8,0.0,1.76,6.24
+CB-2444,2026-07-11,Barsha,Paneer Tikka,Mains,Talabat,Delivery,3,84,12.6,17.85,53.55
+CB-2445,2026-07-11,Barsha,Pani Puri,Chaat,Careem,Delivery,3,36,0.0,7.92,28.08
+CB-2446,2026-07-11,Barsha,Pav Bhaji,Mains,Noon,Delivery,4,88,4.4,16.72,66.88
+CB-2447,2026-07-11,Barsha,Masala Dosa,Mains,Direct,Takeaway,6,120,6.0,0.0,114.0
+CB-2448,2026-07-11,Deira,Dahi Puri,Chaat,Direct,Takeaway,1,14,0.0,0.0,14.0
+CB-2449,2026-07-11,Deira,Dahi Puri,Chaat,Noon,Delivery,6,84,4.2,15.96,63.84
+CB-2450,2026-07-12,Karama,Masala Chai,Beverages,Direct,Dine-in,3,24,0.0,0.0,24.0
+CB-2451,2026-07-12,Muweilah,Masala Chai,Beverages,Talabat,Delivery,2,16,0.0,4.0,12.0
+CB-2452,2026-07-12,Muweilah,Masala Chai,Beverages,Talabat,Delivery,6,48,2.4,11.4,34.2
+CB-2453,2026-07-12,Muweilah,Pav Bhaji,Mains,Careem,Delivery,6,132,0.0,29.04,102.96
+CB-2454,2026-07-12,Muweilah,Pav Bhaji,Mains,Talabat,Delivery,4,88,0.0,22.0,66.0
+CB-2455,2026-07-12,JVC,Dahi Puri,Chaat,Talabat,Delivery,3,42,0.0,10.5,31.5
+CB-2456,2026-07-12,JVC,Samosa Chaat,Chaat,Talabat,Delivery,1,15,0.0,3.75,11.25
+CB-2457,2026-07-12,Barsha,Vada Pav,Snacks,Talabat,Delivery,5,50,0.0,12.5,37.5
+CB-2458,2026-07-12,Deira,Masala Dosa,Mains,Talabat,Delivery,3,60,0.0,15.0,45.0
+CB-2459,2026-07-12,Deira,Mango Lassi,Beverages,Noon,Delivery,3,36,0.0,7.2,28.8
+CB-2460,2026-07-13,Karama,Samosa Chaat,Chaat,Talabat,Delivery,5,75,3.75,17.81,53.44
+CB-2461,2026-07-13,Karama,Masala Chai,Beverages,Talabat,Delivery,1,8,0.0,2.0,6.0
+CB-2462,2026-07-13,Karama,Mango Lassi,Beverages,Direct,Dine-in,1,12,0.0,0.0,12.0
+CB-2463,2026-07-13,Karama,Mango Lassi,Beverages,Talabat,Delivery,5,60,0.0,15.0,45.0
+CB-2464,2026-07-13,Muweilah,Samosa Chaat,Chaat,Direct,Takeaway,2,30,3.0,0.0,27.0
+CB-2465,2026-07-13,Muweilah,Mango Lassi,Beverages,Careem,Delivery,1,12,0.0,2.64,9.36
+CB-2466,2026-07-13,Muweilah,Bhel Puri,Chaat,Noon,Delivery,5,60,0.0,12.0,48.0
+CB-2467,2026-07-13,JVC,Bhel Puri,Chaat,Talabat,Delivery,3,36,0.0,9.0,27.0
+CB-2468,2026-07-13,JVC,Mango Lassi,Beverages,Talabat,Delivery,2,24,0.0,6.0,18.0
+CB-2469,2026-07-13,Barsha,Pani Puri,Chaat,Talabat,Delivery,4,48,0.0,12.0,36.0
+CB-2470,2026-07-13,Barsha,Gulab Jamun,Desserts,Noon,Delivery,2,20,1.0,3.8,15.2
+CB-2471,2026-07-14,Karama,Gulab Jamun,Desserts,Noon,Delivery,1,10,0.0,2.0,8.0
+CB-2472,2026-07-14,Karama,Samosa Chaat,Chaat,Talabat,Delivery,3,45,0.0,11.25,33.75
+CB-2473,2026-07-14,Karama,Masala Chai,Beverages,Direct,Dine-in,4,32,3.2,0.0,28.8
+CB-2474,2026-07-14,Muweilah,Falooda,Desserts,Talabat,Delivery,5,80,0.0,20.0,60.0
+CB-2475,2026-07-14,Muweilah,Vada Pav,Snacks,Direct,Takeaway,2,20,0.0,0.0,20.0
+CB-2476,2026-07-14,Deira,Samosa Chaat,Chaat,Direct,Dine-in,1,15,0.75,0.0,14.25
+CB-2477,2026-07-15,Karama,Paneer Tikka,Mains,Talabat,Delivery,6,168,8.4,39.9,119.7
+CB-2478,2026-07-15,Karama,Masala Chai,Beverages,Direct,Dine-in,4,32,0.0,0.0,32.0
+CB-2479,2026-07-15,Muweilah,Samosa Chaat,Chaat,Direct,Takeaway,2,30,0.0,0.0,30.0
+CB-2480,2026-07-15,Muweilah,Chole Bhature,Mains,Careem,Delivery,4,96,0.0,21.12,74.88
+CB-2481,2026-07-15,Muweilah,Masala Dosa,Mains,Careem,Delivery,5,100,0.0,22.0,78.0
+CB-2482,2026-07-15,Muweilah,Paneer Tikka,Mains,Noon,Delivery,4,112,5.6,21.28,85.12
+CB-2483,2026-07-15,Muweilah,Chole Bhature,Mains,Noon,Delivery,1,24,0.0,4.8,19.2
+CB-2484,2026-07-15,JVC,Paneer Tikka,Mains,Direct,Dine-in,4,112,0.0,0.0,112.0
+CB-2485,2026-07-15,Deira,Mango Lassi,Beverages,Noon,Delivery,4,48,2.4,9.12,36.48
+CB-2486,2026-07-15,Deira,Aloo Tikki Chaat,Chaat,Direct,Dine-in,2,32,0.0,0.0,32.0
+CB-2487,2026-07-15,Deira,Aloo Tikki Chaat,Chaat,Talabat,Delivery,6,96,0.0,24.0,72.0
+CB-2488,2026-07-15,Deira,Samosa Chaat,Chaat,Careem,Delivery,6,90,0.0,19.8,70.2
+CB-2489,2026-07-16,Karama,Gulab Jamun,Desserts,Noon,Delivery,2,20,0.0,4.0,16.0
+CB-2490,2026-07-16,Karama,Mango Lassi,Beverages,Direct,Takeaway,3,36,0.0,0.0,36.0
+CB-2491,2026-07-16,Karama,Masala Chai,Beverages,Talabat,Delivery,4,32,0.0,8.0,24.0
+CB-2492,2026-07-16,Karama,Paneer Tikka,Mains,Talabat,Delivery,5,140,14.0,31.5,94.5
+CB-2493,2026-07-16,Muweilah,Falooda,Desserts,Direct,Takeaway,6,96,0.0,0.0,96.0
+CB-2494,2026-07-16,JVC,Dahi Puri,Chaat,Talabat,Delivery,4,56,5.6,12.6,37.8
+CB-2495,2026-07-16,JVC,Dahi Puri,Chaat,Talabat,Delivery,6,84,0.0,21.0,63.0
+CB-2496,2026-07-16,Deira,Samosa Chaat,Chaat,Direct,Dine-in,4,60,6.0,0.0,54.0
+CB-2497,2026-07-16,Deira,Paneer Tikka,Mains,Direct,Takeaway,6,168,0.0,0.0,168.0
+CB-2498,2026-07-17,Karama,Masala Dosa,Mains,Direct,Dine-in,4,80,4.0,0.0,76.0
+CB-2499,2026-07-17,JVC,Chole Bhature,Mains,Talabat,Delivery,3,72,0.0,18.0,54.0
+CB-2500,2026-07-17,JVC,Samosa Chaat,Chaat,Direct,Dine-in,4,60,0.0,0.0,60.0
+CB-2501,2026-07-17,JVC,Pav Bhaji,Mains,Careem,Delivery,1,22,3.3,4.11,14.59
+CB-2502,2026-07-17,Barsha,Pav Bhaji,Mains,Talabat,Delivery,4,88,0.0,22.0,66.0
+CB-2503,2026-07-17,Barsha,Paneer Tikka,Mains,Careem,Delivery,1,28,0.0,6.16,21.84
+CB-2504,2026-07-17,Deira,Paneer Tikka,Mains,Talabat,Delivery,5,140,21.0,29.75,89.25
+CB-2505,2026-07-17,Deira,Chole Bhature,Mains,Talabat,Delivery,4,96,9.6,21.6,64.8
+CB-2506,2026-07-18,Karama,Mango Lassi,Beverages,Talabat,Delivery,5,60,0.0,15.0,45.0
+CB-2507,2026-07-18,Karama,Pani Puri,Chaat,Talabat,Delivery,4,48,0.0,12.0,36.0
+CB-2508,2026-07-18,Karama,Vada Pav,Snacks,Talabat,Delivery,3,30,0.0,7.5,22.5
+CB-2509,2026-07-18,Karama,Mango Lassi,Beverages,Direct,Takeaway,5,60,0.0,0.0,60.0
+CB-2510,2026-07-18,Karama,Falooda,Desserts,Talabat,Delivery,3,48,0.0,12.0,36.0
+CB-2511,2026-07-18,Muweilah,Masala Dosa,Mains,Talabat,Delivery,1,20,0.0,5.0,15.0
+CB-2512,2026-07-18,Muweilah,Aloo Tikki Chaat,Chaat,Noon,Delivery,2,32,1.6,6.08,24.32
+CB-2513,2026-07-18,Muweilah,Masala Chai,Beverages,Careem,Delivery,6,48,0.0,10.56,37.44
+CB-2514,2026-07-18,Muweilah,Dahi Puri,Chaat,Careem,Delivery,3,42,4.2,8.32,29.48
+CB-2515,2026-07-18,Muweilah,Mango Lassi,Beverages,Direct,Dine-in,6,72,10.8,0.0,61.2
+CB-2516,2026-07-18,Muweilah,Chole Bhature,Mains,Direct,Takeaway,2,48,0.0,0.0,48.0
+CB-2517,2026-07-18,JVC,Pav Bhaji,Mains,Talabat,Delivery,4,88,8.8,19.8,59.4
+CB-2518,2026-07-18,JVC,Pav Bhaji,Mains,Careem,Delivery,2,44,0.0,9.68,34.32
+CB-2519,2026-07-18,Barsha,Masala Chai,Beverages,Noon,Delivery,3,24,0.0,4.8,19.2
+CB-2520,2026-07-18,Barsha,Sev Puri,Chaat,Direct,Takeaway,5,65,3.25,0.0,61.75
+CB-2521,2026-07-18,Deira,Vada Pav,Snacks,Direct,Takeaway,3,30,0.0,0.0,30.0
+CB-2522,2026-07-18,Deira,Mango Lassi,Beverages,Careem,Delivery,5,60,0.0,13.2,46.8
+CB-2523,2026-07-18,Deira,Pav Bhaji,Mains,Careem,Delivery,3,66,3.3,13.79,48.91
+CB-2524,2026-07-18,Deira,Pani Puri,Chaat,Direct,Takeaway,5,60,0.0,0.0,60.0
+CB-2525,2026-07-18,Deira,Vada Pav,Snacks,Direct,Dine-in,2,20,0.0,0.0,20.0
+CB-2526,2026-07-18,Deira,Pav Bhaji,Mains,Direct,Dine-in,1,22,1.1,0.0,20.9
+CB-2527,2026-07-18,Deira,Aloo Tikki Chaat,Chaat,Direct,Takeaway,4,64,6.4,0.0,57.6
+CB-2528,2026-07-19,Karama,Bhel Puri,Chaat,Direct,Takeaway,5,60,0.0,0.0,60.0
+CB-2529,2026-07-19,Karama,Gulab Jamun,Desserts,Noon,Delivery,3,30,3.0,5.4,21.6
+CB-2530,2026-07-19,Muweilah,Mango Lassi,Beverages,Careem,Delivery,3,36,0.0,7.92,28.08
+CB-2531,2026-07-19,Muweilah,Aloo Tikki Chaat,Chaat,Careem,Delivery,5,80,4.0,16.72,59.28
+CB-2532,2026-07-19,Muweilah,Mango Lassi,Beverages,Careem,Delivery,5,60,0.0,13.2,46.8
+CB-2533,2026-07-19,Muweilah,Paneer Tikka,Mains,Talabat,Delivery,5,140,0.0,35.0,105.0
+CB-2534,2026-07-19,JVC,Dahi Puri,Chaat,Direct,Takeaway,6,84,0.0,0.0,84.0
+CB-2535,2026-07-19,Deira,Samosa Chaat,Chaat,Noon,Delivery,6,90,4.5,17.1,68.4
+CB-2536,2026-07-19,Deira,Samosa Chaat,Chaat,Direct,Dine-in,1,15,1.5,0.0,13.5
+CB-2537,2026-07-19,Deira,Sev Puri,Chaat,Talabat,Delivery,2,26,0.0,6.5,19.5
+CB-2538,2026-07-20,Karama,Paneer Tikka,Mains,Noon,Delivery,4,112,0.0,22.4,89.6
+CB-2539,2026-07-20,Karama,Mango Lassi,Beverages,Talabat,Delivery,4,48,2.4,11.4,34.2
+CB-2540,2026-07-20,Muweilah,Pav Bhaji,Mains,Talabat,Delivery,2,44,0.0,11.0,33.0
+CB-2541,2026-07-20,Muweilah,Masala Chai,Beverages,Talabat,Delivery,4,32,0.0,8.0,24.0
+CB-2542,2026-07-20,JVC,Falooda,Desserts,Careem,Delivery,6,96,0.0,21.12,74.88
+CB-2543,2026-07-20,JVC,Pani Puri,Chaat,Talabat,Delivery,4,48,0.0,12.0,36.0
+CB-2544,2026-07-20,JVC,Mango Lassi,Beverages,Noon,Delivery,6,72,10.8,12.24,48.96
+CB-2545,2026-07-20,JVC,Masala Chai,Beverages,Talabat,Delivery,2,16,0.0,4.0,12.0
+CB-2546,2026-07-20,JVC,Aloo Tikki Chaat,Chaat,Noon,Delivery,6,96,0.0,19.2,76.8
+CB-2547,2026-07-20,Barsha,Samosa Chaat,Chaat,Talabat,Delivery,5,75,0.0,18.75,56.25
+CB-2548,2026-07-20,Deira,Paneer Tikka,Mains,Direct,Takeaway,1,28,0.0,0.0,28.0
+CB-2549,2026-07-21,Karama,Gulab Jamun,Desserts,Direct,Dine-in,6,60,6.0,0.0,54.0
+CB-2550,2026-07-21,Karama,Aloo Tikki Chaat,Chaat,Direct,Takeaway,4,64,0.0,0.0,64.0
+CB-2551,2026-07-21,Muweilah,Samosa Chaat,Chaat,Careem,Delivery,5,75,0.0,16.5,58.5
+CB-2552,2026-07-21,Muweilah,Masala Chai,Beverages,Talabat,Delivery,5,40,0.0,10.0,30.0
+CB-2553,2026-07-21,Barsha,Chole Bhature,Mains,Talabat,Delivery,2,48,0.0,12.0,36.0
+CB-2554,2026-07-21,Barsha,Vada Pav,Snacks,Careem,Delivery,1,10,0.0,2.2,7.8
+CB-2555,2026-07-21,Deira,Gulab Jamun,Desserts,Direct,Dine-in,6,60,3.0,0.0,57.0
+CB-2556,2026-07-22,Karama,Pav Bhaji,Mains,Careem,Delivery,3,66,6.6,13.07,46.33
+CB-2557,2026-07-22,Karama,Paneer Tikka,Mains,Direct,Takeaway,6,168,0.0,0.0,168.0
+CB-2558,2026-07-22,Karama,Pani Puri,Chaat,Careem,Delivery,2,24,0.0,5.28,18.72
+CB-2559,2026-07-22,Muweilah,Masala Dosa,Mains,Talabat,Delivery,5,100,0.0,25.0,75.0
+CB-2560,2026-07-22,Barsha,Masala Chai,Beverages,Talabat,Delivery,3,24,1.2,5.7,17.1
+CB-2561,2026-07-22,Barsha,Paneer Tikka,Mains,Direct,Dine-in,2,56,0.0,0.0,56.0
+CB-2562,2026-07-22,Deira,Sev Puri,Chaat,Direct,Dine-in,5,65,0.0,0.0,65.0
+CB-2563,2026-07-23,Karama,Falooda,Desserts,Noon,Delivery,3,48,0.0,9.6,38.4
+CB-2564,2026-07-23,Muweilah,Samosa Chaat,Chaat,Talabat,Delivery,6,90,0.0,22.5,67.5
+CB-2565,2026-07-23,Muweilah,Chole Bhature,Mains,Careem,Delivery,2,48,0.0,10.56,37.44
+CB-2566,2026-07-23,Deira,Dahi Puri,Chaat,Direct,Dine-in,3,42,6.3,0.0,35.7
+CB-2567,2026-07-24,Karama,Gulab Jamun,Desserts,Talabat,Delivery,4,40,0.0,10.0,30.0
+CB-2568,2026-07-24,Muweilah,Vada Pav,Snacks,Noon,Delivery,4,40,0.0,8.0,32.0
+CB-2569,2026-07-24,Muweilah,Samosa Chaat,Chaat,Direct,Takeaway,3,45,0.0,0.0,45.0
+CB-2570,2026-07-24,Muweilah,Gulab Jamun,Desserts,Noon,Delivery,4,40,6.0,6.8,27.2
+CB-2571,2026-07-24,JVC,Paneer Tikka,Mains,Careem,Delivery,1,28,0.0,6.16,21.84
+CB-2572,2026-07-24,JVC,Bhel Puri,Chaat,Talabat,Delivery,2,24,0.0,6.0,18.0
+CB-2573,2026-07-24,Barsha,Paneer Tikka,Mains,Talabat,Delivery,6,168,0.0,42.0,126.0
+CB-2574,2026-07-24,Barsha,Paneer Tikka,Mains,Careem,Delivery,3,84,0.0,18.48,65.52
+CB-2575,2026-07-24,Deira,Mango Lassi,Beverages,Direct,Takeaway,4,48,0.0,0.0,48.0
+CB-2576,2026-07-24,Deira,Pani Puri,Chaat,Careem,Delivery,3,36,0.0,7.92,28.08
+CB-2577,2026-07-25,Muweilah,Vada Pav,Snacks,Talabat,Delivery,1,10,0.5,2.38,7.12
+CB-2578,2026-07-25,Muweilah,Mango Lassi,Beverages,Direct,Dine-in,2,24,0.0,0.0,24.0
+CB-2579,2026-07-25,Muweilah,Falooda,Desserts,Talabat,Delivery,5,80,0.0,20.0,60.0
+CB-2580,2026-07-25,JVC,Bhel Puri,Chaat,Talabat,Delivery,5,60,3.0,14.25,42.75
+CB-2581,2026-07-25,Barsha,Bhel Puri,Chaat,Careem,Delivery,6,72,0.0,15.84,56.16
+CB-2582,2026-07-25,Deira,Dahi Puri,Chaat,Direct,Dine-in,2,28,0.0,0.0,28.0
+CB-2583,2026-07-26,Karama,Paneer Tikka,Mains,Direct,Takeaway,5,140,7.0,0.0,133.0
+CB-2584,2026-07-26,Karama,Masala Dosa,Mains,Direct,Dine-in,5,100,0.0,0.0,100.0
+CB-2585,2026-07-26,Muweilah,Pani Puri,Chaat,Talabat,Delivery,6,72,0.0,18.0,54.0
+CB-2586,2026-07-26,JVC,Chole Bhature,Mains,Careem,Delivery,4,96,0.0,21.12,74.88
+CB-2587,2026-07-26,JVC,Dahi Puri,Chaat,Careem,Delivery,6,84,0.0,18.48,65.52
+CB-2588,2026-07-26,JVC,Masala Dosa,Mains,Direct,Dine-in,6,120,0.0,0.0,120.0
+CB-2589,2026-07-26,Deira,Masala Chai,Beverages,Talabat,Delivery,5,40,0.0,10.0,30.0
+CB-2590,2026-07-26,Deira,Masala Chai,Beverages,Direct,Takeaway,3,24,0.0,0.0,24.0
+CB-2591,2026-07-27,Karama,Bhel Puri,Chaat,Careem,Delivery,3,36,1.8,7.52,26.68
+CB-2592,2026-07-27,Karama,Chole Bhature,Mains,Careem,Delivery,3,72,0.0,15.84,56.16
+CB-2593,2026-07-27,Muweilah,Masala Dosa,Mains,Direct,Dine-in,4,80,4.0,0.0,76.0
+CB-2594,2026-07-27,Barsha,Paneer Tikka,Mains,Direct,Takeaway,5,140,0.0,0.0,140.0
+CB-2595,2026-07-28,Karama,Gulab Jamun,Desserts,Direct,Dine-in,2,20,0.0,0.0,20.0
+CB-2596,2026-07-28,Karama,Bhel Puri,Chaat,Direct,Takeaway,2,24,0.0,0.0,24.0
+CB-2597,2026-07-28,Karama,Masala Chai,Beverages,Direct,Takeaway,4,32,0.0,0.0,32.0
+CB-2598,2026-07-28,Karama,Samosa Chaat,Chaat,Noon,Delivery,6,90,0.0,18.0,72.0
+CB-2599,2026-07-28,Muweilah,Aloo Tikki Chaat,Chaat,Direct,Takeaway,2,32,0.0,0.0,32.0
+CB-2600,2026-07-28,Muweilah,Masala Chai,Beverages,Talabat,Delivery,3,24,0.0,6.0,18.0
+CB-2601,2026-07-28,Barsha,Masala Dosa,Mains,Careem,Delivery,5,100,0.0,22.0,78.0
+CB-2602,2026-07-28,Barsha,Paneer Tikka,Mains,Talabat,Delivery,2,56,2.8,13.3,39.9
+CB-2603,2026-07-28,Barsha,Sev Puri,Chaat,Noon,Delivery,6,78,0.0,15.6,62.4
+CB-2604,2026-07-28,Barsha,Falooda,Desserts,Careem,Delivery,2,32,3.2,6.34,22.46
+CB-2605,2026-07-28,Barsha,Mango Lassi,Beverages,Direct,Takeaway,3,36,0.0,0.0,36.0
+CB-2606,2026-07-29,Karama,Samosa Chaat,Chaat,Talabat,Delivery,6,90,0.0,22.5,67.5
+CB-2607,2026-07-29,Muweilah,Dahi Puri,Chaat,Noon,Delivery,6,84,12.6,14.28,57.12
+CB-2608,2026-07-29,Muweilah,Bhel Puri,Chaat,Talabat,Delivery,3,36,0.0,9.0,27.0
+CB-2609,2026-07-29,Muweilah,Paneer Tikka,Mains,Careem,Delivery,5,140,0.0,30.8,109.2
+CB-2610,2026-07-29,Muweilah,Bhel Puri,Chaat,Noon,Delivery,6,72,0.0,14.4,57.6
+CB-2611,2026-07-29,JVC,Dahi Puri,Chaat,Careem,Delivery,2,28,0.0,6.16,21.84
+CB-2612,2026-07-29,Barsha,Gulab Jamun,Desserts,Noon,Delivery,1,10,1.0,1.8,7.2
+CB-2613,2026-07-30,Muweilah,Aloo Tikki Chaat,Chaat,Direct,Takeaway,3,48,0.0,0.0,48.0
+CB-2614,2026-07-30,Muweilah,Pani Puri,Chaat,Direct,Dine-in,2,24,2.4,0.0,21.6
+CB-2615,2026-07-30,Muweilah,Masala Chai,Beverages,Noon,Delivery,4,32,3.2,5.76,23.04
+CB-2616,2026-07-30,JVC,Aloo Tikki Chaat,Chaat,Careem,Delivery,5,80,0.0,17.6,62.4
+CB-2617,2026-07-30,Barsha,Falooda,Desserts,Talabat,Delivery,1,16,0.0,4.0,12.0
+CB-2618,2026-07-30,Deira,Masala Dosa,Mains,Direct,Takeaway,1,20,0.0,0.0,20.0
+CB-2619,2026-07-30,Deira,Pani Puri,Chaat,Talabat,Delivery,5,60,9.0,12.75,38.25
+CB-2620,2026-07-31,Karama,Aloo Tikki Chaat,Chaat,Direct,Dine-in,4,64,0.0,0.0,64.0
+CB-2621,2026-07-31,Karama,Bhel Puri,Chaat,Direct,Takeaway,4,48,0.0,0.0,48.0
+CB-2622,2026-07-31,Karama,Pani Puri,Chaat,Talabat,Delivery,2,24,1.2,5.7,17.1
+CB-2623,2026-07-31,Karama,Samosa Chaat,Chaat,Direct,Dine-in,4,60,0.0,0.0,60.0
+CB-2624,2026-07-31,JVC,Samosa Chaat,Chaat,Talabat,Delivery,4,60,3.0,14.25,42.75
+CB-2625,2026-07-31,JVC,Falooda,Desserts,Direct,Takeaway,6,96,0.0,0.0,96.0
+CB-2626,2026-07-31,JVC,Pani Puri,Chaat,Talabat,Delivery,6,72,0.0,18.0,54.0
+CB-2627,2026-07-31,JVC,Pani Puri,Chaat,Talabat,Delivery,4,48,2.4,11.4,34.2
+CB-2628,2026-07-31,Barsha,Aloo Tikki Chaat,Chaat,Noon,Delivery,3,48,0.0,9.6,38.4
+CB-2629,2026-07-31,Barsha,Aloo Tikki Chaat,Chaat,Talabat,Delivery,6,96,4.8,22.8,68.4
+CB-2630,2026-07-31,Deira,Paneer Tikka,Mains,Direct,Dine-in,2,56,0.0,0.0,56.0
+CB-2631,2026-07-31,Deira,Vada Pav,Snacks,Direct,Dine-in,4,40,0.0,0.0,40.0
+CB-2632,2026-08-01,Karama,Gulab Jamun,Desserts,Talabat,Delivery,4,40,0.0,10.0,30.0
+CB-2633,2026-08-01,Muweilah,Chole Bhature,Mains,Talabat,Delivery,2,48,2.4,11.4,34.2
+CB-2634,2026-08-01,Muweilah,Pav Bhaji,Mains,Direct,Takeaway,3,66,9.9,0.0,56.1
+CB-2635,2026-08-01,Muweilah,Pav Bhaji,Mains,Talabat,Delivery,4,88,0.0,22.0,66.0
+CB-2636,2026-08-01,Muweilah,Samosa Chaat,Chaat,Direct,Dine-in,5,75,0.0,0.0,75.0
+CB-2637,2026-08-01,Muweilah,Pani Puri,Chaat,Talabat,Delivery,1,12,0.0,3.0,9.0
+CB-2638,2026-08-01,JVC,Masala Chai,Beverages,Talabat,Delivery,5,40,6.0,8.5,25.5
+CB-2639,2026-08-01,JVC,Gulab Jamun,Desserts,Talabat,Delivery,2,20,0.0,5.0,15.0
+CB-2640,2026-08-01,Barsha,Samosa Chaat,Chaat,Talabat,Delivery,4,60,0.0,15.0,45.0
+CB-2641,2026-08-01,Barsha,Bhel Puri,Chaat,Talabat,Delivery,1,12,0.0,3.0,9.0
+CB-2642,2026-08-01,Barsha,Masala Dosa,Mains,Careem,Delivery,1,20,0.0,4.4,15.6
+CB-2643,2026-08-01,Barsha,Vada Pav,Snacks,Talabat,Delivery,3,30,1.5,7.12,21.38
+CB-2644,2026-08-01,Deira,Pani Puri,Chaat,Direct,Dine-in,3,36,5.4,0.0,30.6
+CB-2645,2026-08-01,Deira,Gulab Jamun,Desserts,Careem,Delivery,2,20,1.0,4.18,14.82
+CB-2646,2026-08-01,Deira,Pani Puri,Chaat,Talabat,Delivery,2,24,0.0,6.0,18.0
+CB-2647,2026-08-01,Deira,Falooda,Desserts,Talabat,Delivery,1,16,2.4,3.4,10.2
+CB-2648,2026-08-01,Deira,Masala Dosa,Mains,Direct,Dine-in,3,60,0.0,0.0,60.0
+CB-2649,2026-08-02,Karama,Pani Puri,Chaat,Careem,Delivery,6,72,3.6,15.05,53.35
+CB-2650,2026-08-02,Karama,Masala Dosa,Mains,Direct,Takeaway,3,60,6.0,0.0,54.0
+CB-2651,2026-08-02,Muweilah,Pani Puri,Chaat,Talabat,Delivery,3,36,0.0,9.0,27.0
+CB-2652,2026-08-02,Muweilah,Aloo Tikki Chaat,Chaat,Talabat,Delivery,3,48,4.8,10.8,32.4
+CB-2653,2026-08-02,Muweilah,Pav Bhaji,Mains,Talabat,Delivery,4,88,0.0,22.0,66.0
+CB-2654,2026-08-02,JVC,Pav Bhaji,Mains,Talabat,Delivery,3,66,3.3,15.68,47.02
+CB-2655,2026-08-02,Barsha,Samosa Chaat,Chaat,Talabat,Delivery,5,75,0.0,18.75,56.25
+CB-2656,2026-08-02,Barsha,Pav Bhaji,Mains,Talabat,Delivery,2,44,0.0,11.0,33.0
+CB-2657,2026-08-02,Deira,Masala Dosa,Mains,Careem,Delivery,3,60,0.0,13.2,46.8
+CB-2658,2026-08-02,Deira,Aloo Tikki Chaat,Chaat,Careem,Delivery,4,64,0.0,14.08,49.92
+CB-2659,2026-08-02,Deira,Vada Pav,Snacks,Talabat,Delivery,5,50,5.0,11.25,33.75
+CB-2660,2026-08-03,Muweilah,Pani Puri,Chaat,Careem,Delivery,4,48,0.0,10.56,37.44
+CB-2661,2026-08-03,Muweilah,Sev Puri,Chaat,Direct,Dine-in,6,78,7.8,0.0,70.2
+CB-2662,2026-08-03,JVC,Chole Bhature,Mains,Noon,Delivery,6,144,21.6,24.48,97.92
+CB-2663,2026-08-03,Barsha,Paneer Tikka,Mains,Talabat,Delivery,2,56,0.0,14.0,42.0
+CB-2664,2026-08-03,Deira,Paneer Tikka,Mains,Talabat,Delivery,6,168,0.0,42.0,126.0
+CB-2665,2026-08-03,Deira,Mango Lassi,Beverages,Talabat,Delivery,3,36,3.6,8.1,24.3
+CB-2666,2026-08-04,Karama,Paneer Tikka,Mains,Talabat,Delivery,4,112,0.0,28.0,84.0
+CB-2667,2026-08-04,Karama,Pani Puri,Chaat,Noon,Delivery,3,36,0.0,7.2,28.8
+CB-2668,2026-08-04,Karama,Masala Chai,Beverages,Direct,Dine-in,2,16,0.0,0.0,16.0
+CB-2669,2026-08-04,Karama,Aloo Tikki Chaat,Chaat,Direct,Dine-in,6,96,0.0,0.0,96.0
+CB-2670,2026-08-04,Muweilah,Mango Lassi,Beverages,Talabat,Delivery,3,36,5.4,7.65,22.95
+CB-2671,2026-08-04,JVC,Chole Bhature,Mains,Talabat,Delivery,6,144,0.0,36.0,108.0
+CB-2672,2026-08-04,JVC,Masala Dosa,Mains,Talabat,Delivery,2,40,0.0,10.0,30.0
+CB-2673,2026-08-04,JVC,Pani Puri,Chaat,Talabat,Delivery,6,72,7.2,16.2,48.6
+CB-2674,2026-08-04,JVC,Paneer Tikka,Mains,Talabat,Delivery,3,84,4.2,19.95,59.85
+CB-2675,2026-08-04,Barsha,Pani Puri,Chaat,Careem,Delivery,1,12,1.8,2.24,7.96
+CB-2676,2026-08-04,Barsha,Falooda,Desserts,Noon,Delivery,1,16,1.6,2.88,11.52
+CB-2677,2026-08-05,Karama,Masala Chai,Beverages,Talabat,Delivery,1,8,0.0,2.0,6.0
+CB-2678,2026-08-05,Karama,Sev Puri,Chaat,Careem,Delivery,5,65,9.75,12.16,43.09
+CB-2679,2026-08-05,Karama,Vada Pav,Snacks,Careem,Delivery,5,50,0.0,11.0,39.0
+CB-2680,2026-08-05,Muweilah,Mango Lassi,Beverages,Noon,Delivery,4,48,0.0,9.6,38.4
+CB-2681,2026-08-05,Muweilah,Masala Chai,Beverages,Noon,Delivery,2,16,0.8,3.04,12.16
+CB-2682,2026-08-05,Muweilah,Pav Bhaji,Mains,Talabat,Delivery,5,110,0.0,27.5,82.5
+CB-2683,2026-08-05,Muweilah,Mango Lassi,Beverages,Talabat,Delivery,4,48,0.0,12.0,36.0
+CB-2684,2026-08-05,Muweilah,Masala Chai,Beverages,Direct,Dine-in,4,32,1.6,0.0,30.4
+CB-2685,2026-08-05,Muweilah,Vada Pav,Snacks,Direct,Dine-in,3,30,0.0,0.0,30.0
+CB-2686,2026-08-05,JVC,Paneer Tikka,Mains,Direct,Takeaway,1,28,0.0,0.0,28.0
+CB-2687,2026-08-05,JVC,Gulab Jamun,Desserts,Noon,Delivery,6,60,9.0,10.2,40.8
+CB-2688,2026-08-05,JVC,Masala Chai,Beverages,Direct,Takeaway,6,48,0.0,0.0,48.0
+CB-2689,2026-08-05,Barsha,Samosa Chaat,Chaat,Direct,Dine-in,4,60,0.0,0.0,60.0
+CB-2690,2026-08-05,Barsha,Samosa Chaat,Chaat,Talabat,Delivery,6,90,9.0,20.25,60.75
+CB-2691,2026-08-05,Deira,Pav Bhaji,Mains,Talabat,Delivery,1,22,0.0,5.5,16.5
+CB-2692,2026-08-06,Karama,Mango Lassi,Beverages,Careem,Delivery,5,60,6.0,11.88,42.12
+CB-2693,2026-08-06,Karama,Sev Puri,Chaat,Talabat,Delivery,4,52,0.0,13.0,39.0
+CB-2694,2026-08-06,Karama,Gulab Jamun,Desserts,Careem,Delivery,1,10,1.0,1.98,7.02
+CB-2695,2026-08-06,Karama,Chole Bhature,Mains,Direct,Dine-in,1,24,0.0,0.0,24.0
+CB-2696,2026-08-06,Muweilah,Masala Chai,Beverages,Careem,Delivery,4,32,0.0,7.04,24.96
+CB-2697,2026-08-06,Muweilah,Dahi Puri,Chaat,Direct,Takeaway,2,28,1.4,0.0,26.6
+CB-2698,2026-08-06,Muweilah,Pav Bhaji,Mains,Direct,Takeaway,4,88,0.0,0.0,88.0
+CB-2699,2026-08-06,Muweilah,Samosa Chaat,Chaat,Direct,Dine-in,2,30,0.0,0.0,30.0
+CB-2700,2026-08-06,JVC,Bhel Puri,Chaat,Direct,Takeaway,5,60,0.0,0.0,60.0
+CB-2701,2026-08-06,Barsha,Falooda,Desserts,Noon,Delivery,6,96,0.0,19.2,76.8
+CB-2702,2026-08-06,Barsha,Masala Chai,Beverages,Careem,Delivery,5,40,0.0,8.8,31.2
+CB-2703,2026-08-06,Deira,Gulab Jamun,Desserts,Talabat,Delivery,4,40,4.0,9.0,27.0
+CB-2704,2026-08-06,Deira,Vada Pav,Snacks,Direct,Dine-in,6,60,0.0,0.0,60.0
+CB-2705,2026-08-06,Deira,Dahi Puri,Chaat,Direct,Takeaway,1,14,2.1,0.0,11.9
+CB-2706,2026-08-07,Karama,Paneer Tikka,Mains,Talabat,Delivery,1,28,0.0,7.0,21.0
+CB-2707,2026-08-07,Karama,Mango Lassi,Beverages,Noon,Delivery,6,72,0.0,14.4,57.6
+CB-2708,2026-08-07,Muweilah,Masala Dosa,Mains,Direct,Takeaway,4,80,0.0,0.0,80.0
+CB-2709,2026-08-07,Muweilah,Paneer Tikka,Mains,Direct,Takeaway,3,84,0.0,0.0,84.0
+CB-2710,2026-08-07,JVC,Masala Dosa,Mains,Direct,Dine-in,6,120,0.0,0.0,120.0
+CB-2711,2026-08-07,JVC,Masala Chai,Beverages,Talabat,Delivery,4,32,0.0,8.0,24.0
+CB-2712,2026-08-07,JVC,Chole Bhature,Mains,Direct,Dine-in,4,96,0.0,0.0,96.0
+CB-2713,2026-08-07,Barsha,Aloo Tikki Chaat,Chaat,Noon,Delivery,2,32,0.0,6.4,25.6
+CB-2714,2026-08-07,Barsha,Sev Puri,Chaat,Direct,Takeaway,3,39,0.0,0.0,39.0
+CB-2715,2026-08-07,Deira,Samosa Chaat,Chaat,Talabat,Delivery,2,30,0.0,7.5,22.5
+CB-2716,2026-08-08,Karama,Mango Lassi,Beverages,Direct,Takeaway,2,24,0.0,0.0,24.0
+CB-2717,2026-08-08,Karama,Dahi Puri,Chaat,Careem,Delivery,3,42,0.0,9.24,32.76
+CB-2718,2026-08-08,Muweilah,Mango Lassi,Beverages,Direct,Takeaway,1,12,0.0,0.0,12.0
+CB-2719,2026-08-08,Muweilah,Pani Puri,Chaat,Talabat,Delivery,4,48,2.4,11.4,34.2
+CB-2720,2026-08-08,Muweilah,Vada Pav,Snacks,Talabat,Delivery,5,50,0.0,12.5,37.5
+CB-2721,2026-08-08,Muweilah,Aloo Tikki Chaat,Chaat,Talabat,Delivery,3,48,7.2,10.2,30.6
+CB-2722,2026-08-08,JVC,Pani Puri,Chaat,Careem,Delivery,5,60,3.0,12.54,44.46
+CB-2723,2026-08-08,JVC,Sev Puri,Chaat,Careem,Delivery,4,52,0.0,11.44,40.56
+CB-2724,2026-08-08,Deira,Pani Puri,Chaat,Direct,Dine-in,1,12,0.0,0.0,12.0
+CB-2725,2026-08-08,Deira,Vada Pav,Snacks,Direct,Takeaway,6,60,6.0,0.0,54.0
+CB-2726,2026-08-08,Deira,Gulab Jamun,Desserts,Direct,Takeaway,4,40,4.0,0.0,36.0
+CB-2727,2026-08-09,Karama,Masala Chai,Beverages,Careem,Delivery,5,40,6.0,7.48,26.52
+CB-2728,2026-08-09,Karama,Masala Chai,Beverages,Talabat,Delivery,5,40,2.0,9.5,28.5
+CB-2729,2026-08-09,Karama,Falooda,Desserts,Direct,Takeaway,3,48,0.0,0.0,48.0
+CB-2730,2026-08-09,Karama,Gulab Jamun,Desserts,Talabat,Delivery,2,20,1.0,4.75,14.25
+CB-2731,2026-08-09,Karama,Vada Pav,Snacks,Direct,Dine-in,2,20,0.0,0.0,20.0
+CB-2732,2026-08-09,Karama,Pav Bhaji,Mains,Direct,Dine-in,2,44,0.0,0.0,44.0
+CB-2733,2026-08-09,Karama,Mango Lassi,Beverages,Talabat,Delivery,5,60,0.0,15.0,45.0
+CB-2734,2026-08-09,Muweilah,Vada Pav,Snacks,Careem,Delivery,1,10,0.0,2.2,7.8
+CB-2735,2026-08-09,JVC,Falooda,Desserts,Talabat,Delivery,5,80,0.0,20.0,60.0
+CB-2736,2026-08-09,Barsha,Pani Puri,Chaat,Talabat,Delivery,3,36,0.0,9.0,27.0
+CB-2737,2026-08-09,Barsha,Paneer Tikka,Mains,Talabat,Delivery,5,140,0.0,35.0,105.0
+CB-2738,2026-08-09,Deira,Masala Chai,Beverages,Talabat,Delivery,1,8,0.0,2.0,6.0
+CB-2739,2026-08-09,Deira,Falooda,Desserts,Direct,Dine-in,6,96,0.0,0.0,96.0
+CB-2740,2026-08-09,Deira,Gulab Jamun,Desserts,Direct,Takeaway,4,40,0.0,0.0,40.0
+CB-2741,2026-08-09,Deira,Dahi Puri,Chaat,Direct,Dine-in,3,42,0.0,0.0,42.0
+CB-2742,2026-08-09,Deira,Chole Bhature,Mains,Talabat,Delivery,1,24,0.0,6.0,18.0
+CB-2743,2026-08-09,Deira,Masala Chai,Beverages,Direct,Dine-in,4,32,0.0,0.0,32.0
+CB-2744,2026-08-10,Muweilah,Pani Puri,Chaat,Talabat,Delivery,1,12,0.0,3.0,9.0
+CB-2745,2026-08-10,JVC,Pani Puri,Chaat,Careem,Delivery,1,12,0.0,2.64,9.36
+CB-2746,2026-08-10,JVC,Vada Pav,Snacks,Talabat,Delivery,1,10,0.0,2.5,7.5
+CB-2747,2026-08-10,JVC,Masala Chai,Beverages,Direct,Dine-in,2,16,0.0,0.0,16.0
+CB-2748,2026-08-10,JVC,Masala Chai,Beverages,Talabat,Delivery,4,32,0.0,8.0,24.0
+CB-2749,2026-08-10,Barsha,Masala Dosa,Mains,Direct,Dine-in,4,80,0.0,0.0,80.0
+CB-2750,2026-08-10,Deira,Paneer Tikka,Mains,Noon,Delivery,6,168,8.4,31.92,127.68
+CB-2751,2026-08-10,Deira,Paneer Tikka,Mains,Careem,Delivery,1,28,0.0,6.16,21.84
+CB-2752,2026-08-11,Karama,Vada Pav,Snacks,Talabat,Delivery,4,40,0.0,10.0,30.0
+CB-2753,2026-08-11,Karama,Masala Dosa,Mains,Careem,Delivery,2,40,0.0,8.8,31.2
+CB-2754,2026-08-11,Karama,Vada Pav,Snacks,Direct,Takeaway,5,50,0.0,0.0,50.0
+CB-2755,2026-08-11,Karama,Pani Puri,Chaat,Careem,Delivery,6,72,0.0,15.84,56.16
+CB-2756,2026-08-11,Karama,Sev Puri,Chaat,Direct,Dine-in,5,65,0.0,0.0,65.0
+CB-2757,2026-08-11,Karama,Pav Bhaji,Mains,Direct,Takeaway,2,44,0.0,0.0,44.0
+CB-2758,2026-08-11,Muweilah,Vada Pav,Snacks,Direct,Dine-in,2,20,0.0,0.0,20.0
+CB-2759,2026-08-11,Barsha,Gulab Jamun,Desserts,Careem,Delivery,6,60,0.0,13.2,46.8
+CB-2760,2026-08-11,Barsha,Mango Lassi,Beverages,Direct,Takeaway,5,60,0.0,0.0,60.0
+CB-2761,2026-08-11,Barsha,Paneer Tikka,Mains,Talabat,Delivery,3,84,0.0,21.0,63.0
+CB-2762,2026-08-11,Deira,Dahi Puri,Chaat,Talabat,Delivery,4,56,0.0,14.0,42.0
+CB-2763,2026-08-11,Deira,Paneer Tikka,Mains,Direct,Takeaway,2,56,0.0,0.0,56.0
+CB-2764,2026-08-11,Deira,Masala Chai,Beverages,Direct,Takeaway,3,24,0.0,0.0,24.0
+CB-2765,2026-08-12,Karama,Pav Bhaji,Mains,Careem,Delivery,6,132,0.0,29.04,102.96
+CB-2766,2026-08-12,Karama,Dahi Puri,Chaat,Careem,Delivery,4,56,5.6,11.09,39.31
+CB-2767,2026-08-12,Karama,Falooda,Desserts,Careem,Delivery,1,16,0.0,3.52,12.48
+CB-2768,2026-08-12,Karama,Mango Lassi,Beverages,Noon,Delivery,2,24,0.0,4.8,19.2
+CB-2769,2026-08-12,Karama,Chole Bhature,Mains,Direct,Takeaway,5,120,0.0,0.0,120.0
+CB-2770,2026-08-12,JVC,Paneer Tikka,Mains,Talabat,Delivery,3,84,0.0,21.0,63.0
+CB-2771,2026-08-12,Deira,Dahi Puri,Chaat,Direct,Dine-in,3,42,4.2,0.0,37.8
+CB-2772,2026-08-13,Karama,Gulab Jamun,Desserts,Careem,Delivery,2,20,3.0,3.74,13.26
+CB-2773,2026-08-13,Karama,Pani Puri,Chaat,Direct,Takeaway,1,12,1.8,0.0,10.2
+CB-2774,2026-08-13,Muweilah,Samosa Chaat,Chaat,Talabat,Delivery,1,15,0.0,3.75,11.25
+CB-2775,2026-08-13,Muweilah,Pani Puri,Chaat,Talabat,Delivery,5,60,0.0,15.0,45.0
+CB-2776,2026-08-13,JVC,Gulab Jamun,Desserts,Talabat,Delivery,4,40,0.0,10.0,30.0
+CB-2777,2026-08-14,Karama,Pav Bhaji,Mains,Talabat,Delivery,1,22,0.0,5.5,16.5
+CB-2778,2026-08-14,Muweilah,Aloo Tikki Chaat,Chaat,Talabat,Delivery,2,32,0.0,8.0,24.0
+CB-2779,2026-08-14,Muweilah,Gulab Jamun,Desserts,Careem,Delivery,1,10,1.5,1.87,6.63
+CB-2780,2026-08-14,JVC,Bhel Puri,Chaat,Talabat,Delivery,2,24,0.0,6.0,18.0
+CB-2781,2026-08-14,JVC,Aloo Tikki Chaat,Chaat,Careem,Delivery,1,16,0.0,3.52,12.48
+CB-2782,2026-08-14,Barsha,Dahi Puri,Chaat,Careem,Delivery,1,14,0.0,3.08,10.92
+CB-2783,2026-08-14,Barsha,Masala Dosa,Mains,Talabat,Delivery,3,60,0.0,15.0,45.0
+CB-2784,2026-08-14,Barsha,Falooda,Desserts,Talabat,Delivery,4,64,0.0,16.0,48.0
+CB-2785,2026-08-14,Deira,Masala Chai,Beverages,Talabat,Delivery,1,8,0.0,2.0,6.0
+CB-2786,2026-08-14,Deira,Sev Puri,Chaat,Talabat,Delivery,3,39,1.95,9.26,27.79
+CB-2787,2026-08-15,Karama,Vada Pav,Snacks,Talabat,Delivery,6,60,0.0,15.0,45.0
+CB-2788,2026-08-15,Karama,Aloo Tikki Chaat,Chaat,Direct,Takeaway,1,16,0.0,0.0,16.0
+CB-2789,2026-08-15,Karama,Samosa Chaat,Chaat,Direct,Takeaway,5,75,0.0,0.0,75.0
+CB-2790,2026-08-15,Karama,Bhel Puri,Chaat,Talabat,Delivery,3,36,0.0,9.0,27.0
+CB-2791,2026-08-15,Karama,Gulab Jamun,Desserts,Direct,Dine-in,2,20,0.0,0.0,20.0
+CB-2792,2026-08-15,Karama,Mango Lassi,Beverages,Careem,Delivery,4,48,4.8,9.5,33.7
+CB-2793,2026-08-15,Karama,Gulab Jamun,Desserts,Talabat,Delivery,1,10,0.5,2.38,7.12
+CB-2794,2026-08-15,Karama,Paneer Tikka,Mains,Direct,Dine-in,3,84,0.0,0.0,84.0
+CB-2795,2026-08-15,Muweilah,Falooda,Desserts,Noon,Delivery,4,64,0.0,12.8,51.2
+CB-2796,2026-08-15,Muweilah,Paneer Tikka,Mains,Careem,Delivery,4,112,0.0,24.64,87.36
+CB-2797,2026-08-15,Barsha,Aloo Tikki Chaat,Chaat,Careem,Delivery,3,48,0.0,10.56,37.44
+CB-2798,2026-08-15,Barsha,Sev Puri,Chaat,Noon,Delivery,3,39,5.85,6.63,26.52
+CB-2799,2026-08-15,Barsha,Masala Dosa,Mains,Careem,Delivery,4,80,0.0,17.6,62.4
+CB-2800,2026-08-15,Deira,Mango Lassi,Beverages,Direct,Dine-in,3,36,0.0,0.0,36.0
+CB-2801,2026-08-16,Karama,Chole Bhature,Mains,Direct,Dine-in,3,72,7.2,0.0,64.8
+CB-2802,2026-08-16,Karama,Masala Chai,Beverages,Talabat,Delivery,1,8,0.8,1.8,5.4
+CB-2803,2026-08-16,Karama,Sev Puri,Chaat,Noon,Delivery,5,65,6.5,11.7,46.8
+CB-2804,2026-08-16,Karama,Pav Bhaji,Mains,Direct,Takeaway,3,66,0.0,0.0,66.0
+CB-2805,2026-08-16,Karama,Mango Lassi,Beverages,Noon,Delivery,6,72,0.0,14.4,57.6
+CB-2806,2026-08-16,Muweilah,Pav Bhaji,Mains,Careem,Delivery,2,44,2.2,9.2,32.6
+CB-2807,2026-08-16,Muweilah,Masala Chai,Beverages,Direct,Takeaway,5,40,0.0,0.0,40.0
+CB-2808,2026-08-16,Muweilah,Pav Bhaji,Mains,Careem,Delivery,3,66,0.0,14.52,51.48
+CB-2809,2026-08-16,Muweilah,Masala Chai,Beverages,Direct,Takeaway,1,8,0.4,0.0,7.6
+CB-2810,2026-08-16,Muweilah,Pani Puri,Chaat,Careem,Delivery,3,36,0.0,7.92,28.08
+CB-2811,2026-08-16,JVC,Paneer Tikka,Mains,Talabat,Delivery,5,140,0.0,35.0,105.0
+CB-2812,2026-08-16,Deira,Pani Puri,Chaat,Direct,Dine-in,3,36,3.6,0.0,32.4
+CB-2813,2026-08-16,Deira,Dahi Puri,Chaat,Direct,Takeaway,1,14,0.0,0.0,14.0
+CB-2814,2026-08-17,Karama,Vada Pav,Snacks,Talabat,Delivery,2,20,0.0,5.0,15.0
+CB-2815,2026-08-17,Karama,Gulab Jamun,Desserts,Careem,Delivery,2,20,3.0,3.74,13.26
+CB-2816,2026-08-17,Karama,Masala Chai,Beverages,Talabat,Delivery,5,40,0.0,10.0,30.0
+CB-2817,2026-08-17,Muweilah,Pav Bhaji,Mains,Noon,Delivery,3,66,3.3,12.54,50.16
+CB-2818,2026-08-17,Muweilah,Samosa Chaat,Chaat,Talabat,Delivery,6,90,0.0,22.5,67.5
+CB-2819,2026-08-17,Muweilah,Pani Puri,Chaat,Careem,Delivery,3,36,0.0,7.92,28.08
+CB-2820,2026-08-17,Muweilah,Bhel Puri,Chaat,Direct,Takeaway,5,60,0.0,0.0,60.0
+CB-2821,2026-08-17,Muweilah,Dahi Puri,Chaat,Direct,Takeaway,1,14,0.0,0.0,14.0
+CB-2822,2026-08-17,JVC,Masala Chai,Beverages,Careem,Delivery,2,16,0.8,3.34,11.86
+CB-2823,2026-08-18,Karama,Samosa Chaat,Chaat,Careem,Delivery,4,60,0.0,13.2,46.8
+CB-2824,2026-08-18,Karama,Pani Puri,Chaat,Direct,Dine-in,4,48,7.2,0.0,40.8
+CB-2825,2026-08-18,Karama,Pani Puri,Chaat,Talabat,Delivery,5,60,0.0,15.0,45.0
+CB-2826,2026-08-18,Muweilah,Masala Dosa,Mains,Direct,Dine-in,6,120,0.0,0.0,120.0
+CB-2827,2026-08-18,JVC,Masala Chai,Beverages,Noon,Delivery,5,40,0.0,8.0,32.0
+CB-2828,2026-08-18,JVC,Mango Lassi,Beverages,Talabat,Delivery,1,12,0.0,3.0,9.0
+CB-2829,2026-08-18,Barsha,Masala Chai,Beverages,Careem,Delivery,3,24,2.4,4.75,16.85
+CB-2830,2026-08-18,Barsha,Dahi Puri,Chaat,Talabat,Delivery,2,28,1.4,6.65,19.95
+CB-2831,2026-08-18,Barsha,Samosa Chaat,Chaat,Talabat,Delivery,1,15,0.0,3.75,11.25
+CB-2832,2026-08-18,Deira,Pav Bhaji,Mains,Talabat,Delivery,2,44,6.6,9.35,28.05
+CB-2833,2026-08-19,Karama,Pav Bhaji,Mains,Direct,Dine-in,2,44,2.2,0.0,41.8
+CB-2834,2026-08-19,Karama,Masala Chai,Beverages,Direct,Takeaway,4,32,0.0,0.0,32.0
+CB-2835,2026-08-19,Karama,Mango Lassi,Beverages,Direct,Dine-in,1,12,0.0,0.0,12.0
+CB-2836,2026-08-19,Karama,Mango Lassi,Beverages,Careem,Delivery,6,72,3.6,15.05,53.35
+CB-2837,2026-08-19,JVC,Samosa Chaat,Chaat,Direct,Takeaway,2,30,3.0,0.0,27.0
+CB-2838,2026-08-19,JVC,Masala Dosa,Mains,Direct,Dine-in,2,40,0.0,0.0,40.0
+CB-2839,2026-08-19,Deira,Chole Bhature,Mains,Direct,Takeaway,1,24,0.0,0.0,24.0
+CB-2840,2026-08-19,Deira,Gulab Jamun,Desserts,Direct,Takeaway,3,30,0.0,0.0,30.0
+CB-2841,2026-08-19,Deira,Chole Bhature,Mains,Talabat,Delivery,1,24,0.0,6.0,18.0
+CB-2842,2026-08-20,Karama,Masala Dosa,Mains,Talabat,Delivery,3,60,3.0,14.25,42.75
+CB-2843,2026-08-20,Karama,Vada Pav,Snacks,Direct,Takeaway,6,60,6.0,0.0,54.0
+CB-2844,2026-08-20,Karama,Pani Puri,Chaat,Noon,Delivery,4,48,0.0,9.6,38.4
+CB-2845,2026-08-20,Karama,Pani Puri,Chaat,Noon,Delivery,1,12,1.2,2.16,8.64
+CB-2846,2026-08-20,Karama,Samosa Chaat,Chaat,Direct,Dine-in,5,75,11.25,0.0,63.75
+CB-2847,2026-08-20,Muweilah,Pani Puri,Chaat,Talabat,Delivery,1,12,0.0,3.0,9.0
+CB-2848,2026-08-20,Muweilah,Samosa Chaat,Chaat,Direct,Dine-in,1,15,0.0,0.0,15.0
+CB-2849,2026-08-20,JVC,Pav Bhaji,Mains,Direct,Takeaway,3,66,0.0,0.0,66.0
+CB-2850,2026-08-20,JVC,Paneer Tikka,Mains,Talabat,Delivery,4,112,11.2,25.2,75.6
+CB-2851,2026-08-20,JVC,Gulab Jamun,Desserts,Noon,Delivery,1,10,0.0,2.0,8.0
+CB-2852,2026-08-20,Barsha,Paneer Tikka,Mains,Careem,Delivery,6,168,8.4,35.11,124.49
+CB-2853,2026-08-20,Barsha,Pav Bhaji,Mains,Talabat,Delivery,6,132,0.0,33.0,99.0
+CB-2854,2026-08-21,Karama,Samosa Chaat,Chaat,Noon,Delivery,6,90,0.0,18.0,72.0
+CB-2855,2026-08-21,Karama,Dahi Puri,Chaat,Direct,Dine-in,4,56,5.6,0.0,50.4
+CB-2856,2026-08-21,Muweilah,Falooda,Desserts,Direct,Takeaway,1,16,0.0,0.0,16.0
+CB-2857,2026-08-21,Muweilah,Masala Dosa,Mains,Noon,Delivery,1,20,0.0,4.0,16.0
+CB-2858,2026-08-21,Muweilah,Pav Bhaji,Mains,Direct,Takeaway,2,44,0.0,0.0,44.0
+CB-2859,2026-08-21,JVC,Masala Chai,Beverages,Noon,Delivery,5,40,0.0,8.0,32.0
+CB-2860,2026-08-21,JVC,Pav Bhaji,Mains,Talabat,Delivery,5,110,0.0,27.5,82.5
+CB-2861,2026-08-21,JVC,Aloo Tikki Chaat,Chaat,Direct,Takeaway,3,48,0.0,0.0,48.0
+CB-2862,2026-08-21,Barsha,Samosa Chaat,Chaat,Noon,Delivery,4,60,3.0,11.4,45.6
+CB-2863,2026-08-21,Deira,Pav Bhaji,Mains,Talabat,Delivery,2,44,0.0,11.0,33.0
+CB-2864,2026-08-22,Karama,Dahi Puri,Chaat,Careem,Delivery,4,56,0.0,12.32,43.68
+CB-2865,2026-08-22,Karama,Sev Puri,Chaat,Talabat,Delivery,1,13,1.3,2.92,8.78
+CB-2866,2026-08-22,Karama,Aloo Tikki Chaat,Chaat,Direct,Takeaway,5,80,0.0,0.0,80.0
+CB-2867,2026-08-22,Muweilah,Sev Puri,Chaat,Talabat,Delivery,1,13,1.3,2.92,8.78
+CB-2868,2026-08-22,Muweilah,Pav Bhaji,Mains,Talabat,Delivery,6,132,0.0,33.0,99.0
+CB-2869,2026-08-22,Muweilah,Chole Bhature,Mains,Careem,Delivery,5,120,12.0,23.76,84.24
+CB-2870,2026-08-22,JVC,Pani Puri,Chaat,Careem,Delivery,1,12,1.2,2.38,8.42
+CB-2871,2026-08-22,JVC,Vada Pav,Snacks,Careem,Delivery,3,30,4.5,5.61,19.89
+CB-2872,2026-08-22,JVC,Samosa Chaat,Chaat,Talabat,Delivery,2,30,0.0,7.5,22.5
+CB-2873,2026-08-22,JVC,Gulab Jamun,Desserts,Careem,Delivery,6,60,6.0,11.88,42.12
+CB-2874,2026-08-22,JVC,Paneer Tikka,Mains,Talabat,Delivery,2,56,0.0,14.0,42.0
+CB-2875,2026-08-22,Barsha,Gulab Jamun,Desserts,Direct,Dine-in,3,30,0.0,0.0,30.0
+CB-2876,2026-08-22,Barsha,Bhel Puri,Chaat,Noon,Delivery,3,36,0.0,7.2,28.8
+CB-2877,2026-08-22,Barsha,Samosa Chaat,Chaat,Noon,Delivery,6,90,0.0,18.0,72.0
+CB-2878,2026-08-22,Deira,Aloo Tikki Chaat,Chaat,Careem,Delivery,6,96,0.0,21.12,74.88
+CB-2879,2026-08-22,Deira,Masala Chai,Beverages,Direct,Takeaway,3,24,0.0,0.0,24.0
+CB-2880,2026-08-22,Deira,Pav Bhaji,Mains,Direct,Dine-in,3,66,0.0,0.0,66.0
+CB-2881,2026-08-22,Deira,Dahi Puri,Chaat,Noon,Delivery,3,42,2.1,7.98,31.92
+CB-2882,2026-08-23,Karama,Sev Puri,Chaat,Talabat,Delivery,4,52,0.0,13.0,39.0
+CB-2883,2026-08-23,Karama,Bhel Puri,Chaat,Direct,Takeaway,3,36,0.0,0.0,36.0
+CB-2884,2026-08-23,Karama,Mango Lassi,Beverages,Direct,Dine-in,3,36,1.8,0.0,34.2
+CB-2885,2026-08-23,Karama,Paneer Tikka,Mains,Direct,Takeaway,4,112,0.0,0.0,112.0
+CB-2886,2026-08-23,Muweilah,Pani Puri,Chaat,Careem,Delivery,4,48,0.0,10.56,37.44
+CB-2887,2026-08-23,Muweilah,Samosa Chaat,Chaat,Direct,Dine-in,1,15,0.0,0.0,15.0
+CB-2888,2026-08-23,Muweilah,Gulab Jamun,Desserts,Talabat,Delivery,5,50,0.0,12.5,37.5
+CB-2889,2026-08-23,JVC,Sev Puri,Chaat,Noon,Delivery,3,39,0.0,7.8,31.2
+CB-2890,2026-08-23,JVC,Pani Puri,Chaat,Noon,Delivery,3,36,0.0,7.2,28.8
+CB-2891,2026-08-23,Barsha,Gulab Jamun,Desserts,Noon,Delivery,5,50,0.0,10.0,40.0
+CB-2892,2026-08-23,Barsha,Masala Chai,Beverages,Talabat,Delivery,1,8,0.0,2.0,6.0
+CB-2893,2026-08-23,Barsha,Pani Puri,Chaat,Noon,Delivery,1,12,0.0,2.4,9.6
+CB-2894,2026-08-23,Deira,Samosa Chaat,Chaat,Direct,Dine-in,5,75,7.5,0.0,67.5
+CB-2895,2026-08-24,Karama,Pani Puri,Chaat,Careem,Delivery,5,60,3.0,12.54,44.46
+CB-2896,2026-08-24,Karama,Gulab Jamun,Desserts,Direct,Takeaway,5,50,0.0,0.0,50.0
+CB-2897,2026-08-24,Muweilah,Masala Chai,Beverages,Careem,Delivery,5,40,0.0,8.8,31.2
+CB-2898,2026-08-24,Muweilah,Gulab Jamun,Desserts,Talabat,Delivery,6,60,0.0,15.0,45.0
+CB-2899,2026-08-24,Muweilah,Vada Pav,Snacks,Talabat,Delivery,3,30,0.0,7.5,22.5
+CB-2900,2026-08-24,Muweilah,Gulab Jamun,Desserts,Direct,Takeaway,3,30,0.0,0.0,30.0
+CB-2901,2026-08-24,JVC,Gulab Jamun,Desserts,Talabat,Delivery,1,10,0.0,2.5,7.5
+CB-2902,2026-08-24,JVC,Pav Bhaji,Mains,Noon,Delivery,6,132,0.0,26.4,105.6
+CB-2903,2026-08-24,Barsha,Vada Pav,Snacks,Careem,Delivery,4,40,0.0,8.8,31.2
+CB-2904,2026-08-24,Deira,Mango Lassi,Beverages,Direct,Dine-in,4,48,0.0,0.0,48.0
+CB-2905,2026-08-24,Deira,Bhel Puri,Chaat,Careem,Delivery,2,24,0.0,5.28,18.72
+CB-2906,2026-08-24,Deira,Bhel Puri,Chaat,Careem,Delivery,5,60,0.0,13.2,46.8
+CB-2907,2026-08-25,Karama,Dahi Puri,Chaat,Talabat,Delivery,4,56,0.0,14.0,42.0
+CB-2908,2026-08-25,Karama,Pani Puri,Chaat,Careem,Delivery,3,36,5.4,6.73,23.87
+CB-2909,2026-08-25,Muweilah,Mango Lassi,Beverages,Careem,Delivery,2,24,1.2,5.02,17.78
+CB-2910,2026-08-25,Muweilah,Samosa Chaat,Chaat,Talabat,Delivery,4,60,6.0,13.5,40.5
+CB-2911,2026-08-25,JVC,Samosa Chaat,Chaat,Careem,Delivery,3,45,0.0,9.9,35.1
+CB-2912,2026-08-25,Barsha,Vada Pav,Snacks,Careem,Delivery,4,40,0.0,8.8,31.2
+CB-2913,2026-08-25,Barsha,Bhel Puri,Chaat,Direct,Dine-in,5,60,0.0,0.0,60.0
+CB-2914,2026-08-26,Karama,Samosa Chaat,Chaat,Talabat,Delivery,2,30,0.0,7.5,22.5
+CB-2915,2026-08-26,Karama,Gulab Jamun,Desserts,Direct,Dine-in,6,60,3.0,0.0,57.0
+CB-2916,2026-08-26,Muweilah,Mango Lassi,Beverages,Careem,Delivery,5,60,0.0,13.2,46.8
+CB-2917,2026-08-26,Muweilah,Masala Chai,Beverages,Talabat,Delivery,5,40,4.0,9.0,27.0
+CB-2918,2026-08-26,Muweilah,Paneer Tikka,Mains,Careem,Delivery,3,84,0.0,18.48,65.52
+CB-2919,2026-08-26,JVC,Samosa Chaat,Chaat,Talabat,Delivery,3,45,0.0,11.25,33.75
+CB-2920,2026-08-26,JVC,Vada Pav,Snacks,Talabat,Delivery,3,30,0.0,7.5,22.5
+CB-2921,2026-08-26,JVC,Bhel Puri,Chaat,Noon,Delivery,2,24,0.0,4.8,19.2
+CB-2922,2026-08-26,JVC,Chole Bhature,Mains,Direct,Dine-in,1,24,0.0,0.0,24.0
+CB-2923,2026-08-26,Barsha,Chole Bhature,Mains,Talabat,Delivery,5,120,0.0,30.0,90.0
+CB-2924,2026-08-26,Barsha,Aloo Tikki Chaat,Chaat,Talabat,Delivery,2,32,1.6,7.6,22.8
+CB-2925,2026-08-26,Deira,Sev Puri,Chaat,Noon,Delivery,3,39,0.0,7.8,31.2
+CB-2926,2026-08-27,Karama,Paneer Tikka,Mains,Talabat,Delivery,6,168,0.0,42.0,126.0
+CB-2927,2026-08-27,Karama,Masala Chai,Beverages,Talabat,Delivery,3,24,0.0,6.0,18.0
+CB-2928,2026-08-27,Karama,Vada Pav,Snacks,Talabat,Delivery,2,20,0.0,5.0,15.0
+CB-2929,2026-08-27,Karama,Samosa Chaat,Chaat,Direct,Dine-in,6,90,0.0,0.0,90.0
+CB-2930,2026-08-27,Muweilah,Gulab Jamun,Desserts,Careem,Delivery,3,30,4.5,5.61,19.89
+CB-2931,2026-08-27,Muweilah,Pav Bhaji,Mains,Careem,Delivery,1,22,3.3,4.11,14.59
+CB-2932,2026-08-27,Muweilah,Vada Pav,Snacks,Careem,Delivery,5,50,0.0,11.0,39.0
+CB-2933,2026-08-27,JVC,Paneer Tikka,Mains,Noon,Delivery,2,56,0.0,11.2,44.8
+CB-2934,2026-08-27,Deira,Vada Pav,Snacks,Talabat,Delivery,3,30,0.0,7.5,22.5
+CB-2935,2026-08-28,Karama,Pav Bhaji,Mains,Direct,Takeaway,1,22,0.0,0.0,22.0
+CB-2936,2026-08-28,Karama,Sev Puri,Chaat,Direct,Takeaway,2,26,0.0,0.0,26.0
+CB-2937,2026-08-28,Karama,Mango Lassi,Beverages,Careem,Delivery,2,24,1.2,5.02,17.78
+CB-2938,2026-08-28,Karama,Dahi Puri,Chaat,Careem,Delivery,3,42,0.0,9.24,32.76
+CB-2939,2026-08-28,Karama,Masala Chai,Beverages,Direct,Takeaway,1,8,0.0,0.0,8.0
+CB-2940,2026-08-28,Karama,Masala Dosa,Mains,Careem,Delivery,4,80,0.0,17.6,62.4
+CB-2941,2026-08-28,Karama,Pav Bhaji,Mains,Direct,Takeaway,3,66,0.0,0.0,66.0
+CB-2942,2026-08-28,Karama,Bhel Puri,Chaat,Talabat,Delivery,5,60,0.0,15.0,45.0
+CB-2943,2026-08-28,Karama,Masala Chai,Beverages,Noon,Delivery,4,32,0.0,6.4,25.6
+CB-2944,2026-08-28,Muweilah,Masala Chai,Beverages,Careem,Delivery,5,40,0.0,8.8,31.2
+CB-2945,2026-08-28,Muweilah,Paneer Tikka,Mains,Talabat,Delivery,6,168,8.4,39.9,119.7
+CB-2946,2026-08-28,Muweilah,Mango Lassi,Beverages,Talabat,Delivery,6,72,0.0,18.0,54.0
+CB-2947,2026-08-28,Muweilah,Samosa Chaat,Chaat,Talabat,Delivery,1,15,1.5,3.38,10.12
+CB-2948,2026-08-28,JVC,Sev Puri,Chaat,Talabat,Delivery,4,52,0.0,13.0,39.0
+CB-2949,2026-08-28,JVC,Masala Chai,Beverages,Talabat,Delivery,1,8,0.0,2.0,6.0
+CB-2950,2026-08-28,Barsha,Gulab Jamun,Desserts,Talabat,Delivery,4,40,0.0,10.0,30.0
+CB-2951,2026-08-28,Barsha,Bhel Puri,Chaat,Talabat,Delivery,3,36,0.0,9.0,27.0
+CB-2952,2026-08-28,Deira,Bhel Puri,Chaat,Careem,Delivery,2,24,0.0,5.28,18.72
+CB-2953,2026-08-28,Deira,Bhel Puri,Chaat,Noon,Delivery,3,36,0.0,7.2,28.8
+CB-2954,2026-08-28,Deira,Pav Bhaji,Mains,Direct,Takeaway,2,44,0.0,0.0,44.0
+CB-2955,2026-08-28,Deira,Aloo Tikki Chaat,Chaat,Direct,Dine-in,6,96,0.0,0.0,96.0
+CB-2956,2026-08-29,Karama,Vada Pav,Snacks,Direct,Takeaway,4,40,0.0,0.0,40.0
+CB-2957,2026-08-29,Karama,Vada Pav,Snacks,Talabat,Delivery,4,40,0.0,10.0,30.0
+CB-2958,2026-08-29,Karama,Dahi Puri,Chaat,Careem,Delivery,2,28,0.0,6.16,21.84
+CB-2959,2026-08-29,Karama,Masala Chai,Beverages,Direct,Dine-in,5,40,0.0,0.0,40.0
+CB-2960,2026-08-29,Karama,Mango Lassi,Beverages,Talabat,Delivery,1,12,0.0,3.0,9.0
+CB-2961,2026-08-29,Muweilah,Pav Bhaji,Mains,Talabat,Delivery,5,110,0.0,27.5,82.5
+CB-2962,2026-08-29,Muweilah,Sev Puri,Chaat,Direct,Takeaway,1,13,0.65,0.0,12.35
+CB-2963,2026-08-29,Muweilah,Falooda,Desserts,Noon,Delivery,1,16,0.0,3.2,12.8
+CB-2964,2026-08-29,JVC,Pav Bhaji,Mains,Direct,Takeaway,3,66,0.0,0.0,66.0
+CB-2965,2026-08-29,Barsha,Masala Dosa,Mains,Noon,Delivery,2,40,2.0,7.6,30.4
+CB-2966,2026-08-29,Barsha,Masala Dosa,Mains,Talabat,Delivery,4,80,0.0,20.0,60.0
+CB-2967,2026-08-29,Deira,Masala Dosa,Mains,Talabat,Delivery,1,20,3.0,4.25,12.75
+CB-2968,2026-08-29,Deira,Masala Chai,Beverages,Direct,Takeaway,1,8,0.4,0.0,7.6
+CB-2969,2026-08-29,Deira,Paneer Tikka,Mains,Direct,Dine-in,4,112,5.6,0.0,106.4
+CB-2970,2026-08-30,Karama,Mango Lassi,Beverages,Talabat,Delivery,4,48,0.0,12.0,36.0
+CB-2971,2026-08-30,Karama,Samosa Chaat,Chaat,Direct,Dine-in,2,30,0.0,0.0,30.0
+CB-2972,2026-08-30,Muweilah,Aloo Tikki Chaat,Chaat,Talabat,Delivery,3,48,0.0,12.0,36.0
+CB-2973,2026-08-30,Barsha,Mango Lassi,Beverages,Talabat,Delivery,6,72,0.0,18.0,54.0
+CB-2974,2026-08-30,Barsha,Dahi Puri,Chaat,Careem,Delivery,4,56,2.8,11.7,41.5
+CB-2975,2026-08-30,Deira,Sev Puri,Chaat,Talabat,Delivery,2,26,0.0,6.5,19.5
+CB-2976,2026-08-30,Deira,Falooda,Desserts,Talabat,Delivery,2,32,0.0,8.0,24.0
+CB-2977,2026-08-30,Deira,Mango Lassi,Beverages,Talabat,Delivery,2,24,0.0,6.0,18.0
+CB-2978,2026-08-31,Karama,Aloo Tikki Chaat,Chaat,Careem,Delivery,5,80,0.0,17.6,62.4
+CB-2979,2026-08-31,Karama,Paneer Tikka,Mains,Talabat,Delivery,2,56,0.0,14.0,42.0
+CB-2980,2026-08-31,JVC,Chole Bhature,Mains,Talabat,Delivery,5,120,0.0,30.0,90.0
+CB-2981,2026-08-31,JVC,Dahi Puri,Chaat,Noon,Delivery,1,14,0.0,2.8,11.2
+CB-2982,2026-08-31,JVC,Masala Dosa,Mains,Careem,Delivery,2,40,0.0,8.8,31.2
+CB-2983,2026-08-31,JVC,Mango Lassi,Beverages,Direct,Takeaway,4,48,0.0,0.0,48.0
+CB-2984,2026-08-31,Barsha,Masala Dosa,Mains,Talabat,Delivery,4,80,0.0,20.0,60.0
+CB-2985,2026-08-31,Barsha,Pani Puri,Chaat,Direct,Dine-in,1,12,0.0,0.0,12.0
+CB-2986,2026-08-31,Deira,Masala Chai,Beverages,Direct,Dine-in,4,32,0.0,0.0,32.0
+CB-2987,2026-08-31,Deira,Vada Pav,Snacks,Careem,Delivery,1,10,0.0,2.2,7.8
