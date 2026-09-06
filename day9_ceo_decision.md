@@ -1,30 +1,28 @@
 # Day 9 Task 7 - CEO Decision
 
-**CEO:** "Aggregator commission is too expensive. From next month I want to
-remove Talabat completely." — YES / NO / NOT ENOUGH DATA, in 120 words.
+CEO wants to drop Talabat next month to cut commission.
 
----
+## Answer: NOT ENOUGH DATA
 
-## NOT ENOUGH DATA
+## What the data says
+- Talabat is ~37% of orders and the most expensive channel (25% commission).
+- Direct share already rose 21% to 31% of orders in three months, so some customers will switch channel on their own.
 
-**What the data tells us:** Talabat is ~37% of orders and the costliest channel
-(25% commission) — our single biggest cost lever. Direct share is already
-climbing at four of five branches, so some switching is realistic.
+## What the data does not say
+- Whether Talabat orders are incremental or would come back as Direct.
+- First-time vs repeat customers. There are no customer IDs.
+- True profit. No food or labour cost in the data.
 
-**What it doesn't tell us:** whether Talabat orders are incremental or would
-return as Direct, repeat-customer behaviour, delivery-radius overlap, or true
-profit (the data has no food or labour cost).
+## Biggest risk: we lose customers, not just a channel
+Talabat is a discovery channel. A large share of aggregator orders come from people browsing the app for food who then find Chaat Bazaar. Remove the storefront and:
+- Customers who specifically want Chaat Bazaar open another app and order anyway. We keep them.
+- Customers who just want chaat pick a different chaat place still on Talabat. We lose them and they do not migrate to us.
+- First-time discovery traffic stops entirely.
 
-**Biggest risk:** permanently losing a third of revenue that never converts to
-Direct, worst at delivery-dependent branches like Barsha.
+Moving to a cheaper platform may recover the loyal customers. It does nothing for the browsers who never search us by name. Nothing in the data says the better commission terms make up for that loss. Short term it probably does not.
 
-**Experiment first:** turn Talabat off at one branch for 6–8 weeks, keep a
-matched control branch live, push Direct hard.
+## Experiment first
+Turn Talabat off at one branch for 6-8 weeks. Keep a matched branch live as control. Push Direct at the test branch.
 
-**Success KPI:** branch net sales retained within 5% of baseline with Leakage %
-down.
-
----
-
-*Word count of the answer above (from "What the data tells us" through the KPI
-line, including the labels): 119.*
+## Success KPI
+Test-branch net sales stays within 5% of baseline while leakage % falls.

@@ -1,36 +1,59 @@
 # Day 9 Task 4 - Power BI Dashboard V2
 
-Do **not** rebuild. Open `dummy_chaat_bazaar_dashboard.pbix` and add only what
-improves a decision. Everything below sits on the existing model plus one new
-`Calendar` table (`CALENDARAUTO()`, marked as a date table, related to
-`Sales[Date]`). All measures are in `day9_dax_measures.md`.
+Do not rebuild. Add only what changes a decision. V1 already has Direct Share %,
+Commission %, a branch bar and a month line. Measures are in day9_dax_measures.md.
 
-## What to add (5 required + 1 own)
+## Requirement status in V1
 
-| # | Element | Visual | Why it changes a decision |
-|---|---|---|---|
-| 1 | **Month-over-month growth** | Line/column combo: `Calendar[Month]` axis, `Total Net Sales` as columns, `MoM Growth %` as a line on a secondary axis | Shows the "growth" is one month (+7% Aug) sitting on a flat/down June-July, not a trend |
-| 2 | **Leakage %** | Card, plus a line by month | One number for "how much of gross we lose to discount + commission"; the line shows it falling 20% -> 18% |
-| 3 | **Direct Share %** | Card + line by month, and a bar by branch | The lever behind the margin gain; by branch it shows Barsha stuck at ~14% while others climb |
-| 4 | **Branch comparison** | Matrix: rows = `Branch`, columns = `Calendar[Month]`, values = `Total Net Sales` and `MoM Growth %`, with conditional-format data bars / colour | Puts Karama's decline and Deira's ramp side by side in one view |
-| 5 | **Trend indicator** | KPI visual: Indicator = `Total Net Sales`, Trend axis = `Calendar[Month]`, Target = `Previous Month Net Sales` | Red/green at a glance: is this month above or below last month, per whatever branch/channel is sliced |
+- Direct Share %: done (card + by-branch bar).
+- Branch comparison: done (Top Branch bar). Add a month breakdown to show
+  Karama's decline.
+- Trend indicator: partial. Line chart only, no up/down signal, axis starts at 0
+  so the trend looks flat.
+- Leakage %: missing. V1 shows Commission % (16.33%) not Leakage (~18.9%).
+- Month-over-month growth: missing.
+- Net Sales per Order: done, it is the existing Average Order Value card.
 
-Keep the V1 visuals that already earn their place (net sales by branch, top
-products, channel cost table). Delete any V1 visual that does not answer a
-question - the design rule.
+## Steps
 
-## My own visual
+1. Add the Calendar table (needed for MoM). Modeling > New table:
+   `Calendar = CALENDARAUTO()`. Mark as date table. Relate Calendar[Date] to
+   Sales[Date].
 
-**Same-branch net sales vs total net sales, by month.** A line chart with two
-lines on `Calendar[Month]`: `Total Net Sales`, and a `Net Sales ex-Deira` measure
-(`CALCULATE([Total Net Sales], Sales[Branch] <> "Deira")`).
+2. Add measures Leakage %, Previous Month Net Sales, MoM Growth %, and
+   `Net Sales ex-Deira = CALCULATE([Total Net Sales], Sales[Branch] <> "Deira")`.
 
-> I added this because management needs to know **whether the core business is
-> actually growing, or whether the whole +5.9% is just the new Deira branch
-> opening.** The two lines diverge: total rises, same-branch is nearly flat.
+3. Card row: replace the Total Gross Sales card with Leakage %. Gross is
+   derivable from net and leakage; leakage is the KPI.
+
+4. Month line: convert to a line and clustered column chart. Columns = Total Net
+   Sales. Line = MoM Growth %. Set the Y axis start to 12000 so the trend is
+   visible.
+
+5. Add a KPI visual for the trend indicator. Value = Total Net Sales, Trend axis
+   = Calendar[Month], Target = Previous Month Net Sales. Goes green or red versus
+   last month and follows the slicers.
+
+6. Branch comparison: add Calendar[Month] as Small multiples on the Top Branch
+   bar, or add a matrix (rows = Branch, columns = Month, values = Total Net Sales
+   and MoM Growth %, conditional format the growth column).
+
+## Own visual
+
+Line chart: Total Net Sales vs Net Sales ex-Deira, X axis = Calendar[Month].
+Put it where Best Products sits and move Best Products to a second page.
+
+Caption: "I added this because management needs to know whether the core business
+is growing or whether the +5.9% is just the new Deira branch opening. The two
+lines split apart: total rises, same-branch stays roughly flat."
 
 ## Design check
 
-Every visual here answers a stated question (growing or not, where the money
-leaks, which channel, which branch, up or down this month). If a reviewer cannot
-say what decision a visual supports, it comes off the page.
+Every visual answers a stated question: growing or not, where money leaks, which
+channel, which branch, up or down this month. If a reviewer cannot name the
+decision a visual supports, remove it.
+
+## V1 fix regardless
+
+The month line's 0-based Y axis hides the trend. Fix it as in step 4 even if you
+change nothing else.

@@ -1,4 +1,4 @@
-"""Day 9 Task 1 - build the database.
+"""Day 9 Task 1 - database.
 
 Loads the 988-row dataset (restaurant_sales_750.csv) into SQLite as a small
 star-ish model instead of one wide table:
@@ -16,8 +16,6 @@ Then it proves the load with five checks and prints PASS/FAIL for each:
     no orphan Branch IDs
     no orphan Product IDs
     no orphan Channel IDs
-
-The DB file is a build artifact - delete it and re-run this script to rebuild.
 """
 from pathlib import Path
 import sqlite3
